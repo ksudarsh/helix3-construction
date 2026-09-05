@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 860" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual drilled shaft foundation section</title>
+  <desc id="desc">Diagram showing a future cap or mat, projecting rebar, permanent or temporary steel casing through weak wet upper ground, a deeper drilled shaft, and competent bearing strata.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#132630"/>
+      <stop offset="1" stop-color="#0d1d25"/>
+    </linearGradient>
+    <pattern id="soil" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="5" r="1.6" fill="#9b7b59" opacity=".28"/>
+      <circle cx="13" cy="12" r="1.3" fill="#9b7b59" opacity=".22"/>
+    </pattern>
+    <pattern id="rock" width="24" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0 12 L8 6 L15 10 L24 4" fill="none" stroke="#97a7b0" stroke-width="2" opacity=".35"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#e9f1f4"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".25"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="860" rx="34" fill="url(#bg)"/>
+  <text x="380" y="52" text-anchor="middle" fill="#f7fbfc" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Conceptual drilled shaft foundation</text>
+  <text x="380" y="82" text-anchor="middle" fill="#a9bbc4" font-family="Inter, Arial, sans-serif" font-size="15">not to scale</text>
+
+  <!-- Ground / soil bands -->
+  <rect x="76" y="240" width="608" height="328" rx="18" fill="#5e4938" opacity=".28"/>
+  <rect x="76" y="240" width="608" height="328" rx="18" fill="url(#soil)"/>
+  <text x="602" y="274" text-anchor="end" fill="#e0c7ae" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">weak / wet upper ground</text>
+
+  <rect x="76" y="676" width="608" height="96" rx="18" fill="#273742"/>
+  <rect x="76" y="676" width="608" height="96" rx="18" fill="url(#rock)"/>
+  <text x="380" y="731" text-anchor="middle" fill="#f1f5f6" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">competent bearing strata</text>
+
+  <!-- Cap / mat -->
+  <rect x="170" y="124" width="420" height="72" rx="14" fill="#d4d9dc" filter="url(#shadow)"/>
+  <rect x="170" y="124" width="420" height="72" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="2"/>
+  <text x="380" y="167" text-anchor="middle" fill="#17242c" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">future foundation cap / mat</text>
+
+  <!-- Rebar -->
+  <g stroke="#d78a43" stroke-width="8" stroke-linecap="round">
+    <line x1="328" y1="226" x2="328" y2="176"/>
+    <line x1="352" y1="226" x2="352" y2="176"/>
+    <line x1="376" y1="226" x2="376" y2="176"/>
+    <line x1="400" y1="226" x2="400" y2="176"/>
+    <line x1="424" y1="226" x2="424" y2="176"/>
+  </g>
+  <text x="500" y="220" fill="#ffd8aa" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">projecting rebar</text>
+  <line x1="488" y1="216" x2="438" y2="202" stroke="#ffd8aa" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Casing -->
+  <rect x="282" y="226" width="196" height="330" rx="8" fill="#0d1d25" stroke="#d9e3e8" stroke-width="8"/>
+  <rect x="300" y="244" width="160" height="312" fill="#8e99a0" opacity=".24"/>
+  <text x="380" y="330" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">concrete</text>
+  <text x="380" y="365" text-anchor="middle" fill="#d5e0e4" font-family="Inter, Arial, sans-serif" font-size="18">inside steel casing</text>
+
+  <!-- Casing toe -->
+  <line x1="282" y1="556" x2="478" y2="556" stroke="#e9f1f4" stroke-width="5"/>
+  <text x="520" y="562" fill="#e9f1f4" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">casing toe</text>
+  <line x1="506" y1="555" x2="482" y2="555" stroke="#e9f1f4" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Shaft below casing -->
+  <path d="M310 556 L310 692" stroke="#d9e3e8" stroke-width="4"/>
+  <path d="M450 556 L450 692" stroke="#d9e3e8" stroke-width="4"/>
+  <rect x="314" y="556" width="132" height="136" fill="#8e99a0" opacity=".18"/>
+  <text x="380" y="616" text-anchor="middle" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">drilled shaft</text>
+  <text x="380" y="645" text-anchor="middle" fill="#bdcbd1" font-family="Inter, Arial, sans-serif" font-size="16">continues below casing</text>
+
+  <!-- Callout -->
+  <rect x="505" y="590" width="170" height="72" rx="12" fill="#203746" stroke="#49616f"/>
+  <text x="590" y="618" text-anchor="middle" fill="#f4f7f8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">shaft extends</text>
+  <text x="590" y="642" text-anchor="middle" fill="#f4f7f8" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">much deeper</text>
+  <line x1="505" y1="626" x2="456" y2="626" stroke="#e9f1f4" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <!-- Flow arrow -->
+  <line x1="380" y1="700" x2="380" y2="754" stroke="#e9f1f4" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Legend -->
+  <g transform="translate(96 801)" font-family="Inter, Arial, sans-serif" font-size="14">
+    <rect x="0" y="-14" width="18" height="18" rx="3" fill="#d4d9dc"/><text x="28" y="0" fill="#d9e3e8">cap / mat</text>
+    <rect x="160" y="-14" width="18" height="18" rx="3" fill="#d78a43"/><text x="188" y="0" fill="#d9e3e8">reinforcement</text>
+    <rect x="350" y="-14" width="18" height="18" rx="3" fill="#8e99a0"/><text x="378" y="0" fill="#d9e3e8">concrete / shaft</text>
+  </g>
+</svg>
