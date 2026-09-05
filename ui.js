@@ -11,6 +11,15 @@
     heroInner.appendChild(stats);
   }
 
+  const fixStyle=document.createElement('style');
+  fixStyle.textContent=`
+    .process>.step{padding-top:24px!important}
+    .process>.step:before{position:static!important;display:grid!important;margin:0 0 18px 0!important;width:36px!important;height:36px!important}
+    .process>.step h3{margin-top:0!important}
+    @media(max-width:720px){.process>.step{padding:18px!important}.process>.step:before{margin-bottom:16px!important}}
+  `;
+  document.head.appendChild(fixStyle);
+
   const nav=document.querySelector('.nav');
   const navWrap=document.querySelector('.nav .wrap');
   if(nav&&navWrap&&!nav.querySelector('.menu-toggle')){
