@@ -1,0 +1,70 @@
+[
+  {
+    "source": "images/originals/IMG_5325.heic",
+    "web": "images/web/IMG_5325.jpg",
+    "metadata": "/Users/krishna/Desktop/TEMP PLEASE DELETE/Helix3/images/originals/IMG_5325.heic\n  creation: 2026:09:11 07:19:49\n  pixelWidth: 2268\n  pixelHeight: 4032",
+    "files": [
+      {
+        "path": "images/originals/IMG_5325.heic",
+        "bytes": 2241708,
+        "sha256": "e98e8ba5907b2b831f8ddd1b852f803d7f0dcc4009c454363054d80a561f640d"
+      },
+      {
+        "path": "images/web/IMG_5325.jpg",
+        "bytes": 1416986,
+        "sha256": "49c33b33bf4eaf22bc3311ed7981d42156013b3b45a9b784ba1e0c9300203568"
+      }
+    ]
+  },
+  {
+    "source": "images/originals/IMG_5326.heic",
+    "web": "images/web/IMG_5326.jpg",
+    "metadata": "/Users/krishna/Desktop/TEMP PLEASE DELETE/Helix3/images/originals/IMG_5326.heic\n  creation: 2026:09:11 07:20:03\n  pixelWidth: 2268\n  pixelHeight: 4032",
+    "files": [
+      {
+        "path": "images/originals/IMG_5326.heic",
+        "bytes": 866353,
+        "sha256": "d71b980050800747887495f65e6dbc2a3a0dc087c1d3f984cf0618726672f951"
+      },
+      {
+        "path": "images/web/IMG_5326.jpg",
+        "bytes": 1000639,
+        "sha256": "7eeef300768117d2557e920cc9eee8bada872c371b0b2e38f4a98c7a9571591a"
+      }
+    ]
+  },
+  {
+    "source": "images/originals/IMG_5327.heic",
+    "web": "images/web/IMG_5327.jpg",
+    "metadata": "/Users/krishna/Desktop/TEMP PLEASE DELETE/Helix3/images/originals/IMG_5327.heic\n  creation: 2026:09:11 07:20:55\n  pixelWidth: 4032\n  pixelHeight: 2268",
+    "files": [
+      {
+        "path": "images/originals/IMG_5327.heic",
+        "bytes": 785867,
+        "sha256": "7114964270a760a6bbe004bca9be1d8104991fda0b270b9a5699892b95bf737f"
+      },
+      {
+        "path": "images/web/IMG_5327.jpg",
+        "bytes": 905646,
+        "sha256": "5d7892494c5424be207a903c1dd2e57eb049450ba8c8df9d115857a1e79b3144"
+      }
+    ]
+  },
+  {
+    "source": "images/originals/IMG_5328.heic",
+    "web": "images/web/IMG_5328.jpg",
+    "metadata": "/Users/krishna/Desktop/TEMP PLEASE DELETE/Helix3/images/originals/IMG_5328.heic\n  creation: 2026:09:11 07:20:58\n  pixelWidth: 4032\n  pixelHeight: 2268",
+    "files": [
+      {
+        "path": "images/originals/IMG_5328.heic",
+        "bytes": 795124,
+        "sha256": "a816e1464f807576817e4f1552853718755439554d3d148a5fea2d835d6e4d40"
+      },
+      {
+        "path": "images/web/IMG_5328.jpg",
+        "bytes": 917015,
+        "sha256": "b59a9c95b1592a25ff7624fd57cda6b368eca765598e93bbd457b65261f367a3"
+      }
+    ]
+  }
+]

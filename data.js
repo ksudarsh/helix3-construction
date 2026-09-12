@@ -359,5 +359,37 @@ window.HELIX_PHOTOS=[
     "caption": "Observed: casings 27 and 39 stand above uneven excavated ground; reinforcement projects from other shaft heads. Likely: the next substructure operations will clarify how the shafts connect. The final structural load map remains unknown.",
     "annotated": false,
     "date": "2026-09-11"
+  },
+  {
+    "file": "IMG_5325.heic",
+    "web": "images/web/IMG_5325.jpg",
+    "title": "September 11 — Morning overview — excavation and the truck queue",
+    "caption": "Observed: excavators, soil stockpiles, exposed casings and a line of dump trucks occupy the site and its boundary lane. A truck is positioned beside the foreground excavator. Likely: coordinated excavation and soil haulage. This morning view precedes the September 11 afternoon Canon photographs.",
+    "annotated": false,
+    "date": "2026-09-11"
+  },
+  {
+    "file": "IMG_5326.heic",
+    "web": "images/web/IMG_5326.jpg",
+    "title": "September 11 — Dump trucks lined up for the excavation",
+    "caption": "Observed: several dump trucks queue along the barrier-separated lane beside the shoring; their open bodies are visible. Likely: trucks staged to receive excavated material. Unknown: waiting times, loads per day and whether every queued truck serves this excavation.",
+    "annotated": false,
+    "date": "2026-09-11"
+  },
+  {
+    "file": "IMG_5327.heic",
+    "web": "images/web/IMG_5327.jpg",
+    "title": "September 11 — CAT 330D loading excavated material",
+    "caption": "Observed: the CAT 330D bucket is positioned over a dump-truck body, with brown material falling into the bed. Nearby soil banks and stockpiles connect the loading operation to the excavation. Unknown: material classification, load weight and haul destination.",
+    "annotated": false,
+    "date": "2026-09-11"
+  },
+  {
+    "file": "IMG_5328.heic",
+    "web": "images/web/IMG_5328.jpg",
+    "title": "September 11 — The loading sequence, three seconds later",
+    "caption": "Observed: the bucket has moved above the same truck and brown material has accumulated in its bed. The camera timestamps place this frame three seconds after IMG_5327. This documents part of one loading operation, not two truckloads; total excavation volume and haul-cycle duration remain unknown.",
+    "annotated": false,
+    "date": "2026-09-11"
   }
 ];

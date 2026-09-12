@@ -11,6 +11,7 @@ const stages=[
 {file:'IMG_5245_Original.jpeg',stage:'Deep foundations',title:'Inside the drilling operation',text:'A close view captures a rotary foundation rig working through a large steel casing, linking the wide site sequence to the detailed drilled-shaft process documented elsewhere in this journal.'},
 {file:'../originals/IMG_6232.JPG',stage:'September 4, 2026',title:'The rig is still present',text:'The dated camera overview shows the tall drilling rig at the far end of the footprint. This corrects its earlier September 10 label.'},
 {file:'../originals/IMG_6241.JPG',stage:'September 10, 2026',title:'Excavators take the foreground',text:'A varied excavator fleet occupies the site. The tall drilling rig in the September 4 overview is no longer visible; the status of the full shaft program remains unknown.'},
+{file:'../web/IMG_5325.jpg',stage:'September 11, 2026 · Morning',title:'The haulage operation comes into view',text:'Dump trucks line the boundary lane while excavators work among exposed casings and soil stockpiles. Close views show soil being loaded into a truck. These morning images precede the afternoon Canon set; quantities and haul destinations remain unknown.'},
 {file:'../originals/IMG_6254.JPG',stage:'September 11, 2026',title:'More casing is exposed',text:'Excavation reveals longer casing sections beside the shoring. The observer reports the drilling rig gone. The next clues will be shaft-head treatment and reinforcement connecting the foundations.'}
 ];
 const section=document.createElement('section');

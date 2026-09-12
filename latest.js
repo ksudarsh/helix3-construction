@@ -4,7 +4,17 @@
   section.className='section';
   section.innerHTML=`<div class="wrap">
     <div class="eyebrow">Field update · September 11, 2026</div>
-    <h2>The ground drops. The casings emerge.</h2>
+    <h2>Excavation has a supply chain.</h2>
+    <p class="lede">The long line of dump trucks makes the earthmoving operation visible beyond the excavation itself. New morning photographs show a CAT 330D loading soil into a truck, while more trucks wait along the site boundary.</p>
+    <div class="haulage-layout">
+      <figure class="haulage-photo"><img loading="lazy" src="images/web/IMG_5326.jpg" alt="Long line of dump trucks in the barrier-separated lane beside the HELIX 3 excavation"><figcaption>September 11, 7:20 a.m. · Trucks queue beside the shoring. Tap to inspect the full photograph.</figcaption></figure>
+      <div class="haulage-copy">
+        <article class="card"><div class="status observed">Observed</div><h3>From the excavation into a truck</h3><p>The close views show a CAT 330D bucket over a dump-truck body, with soil entering the bed. The wider view places the loading area beside soil stockpiles, exposed shaft casings and the waiting trucks.</p><div class="status likely">Likely</div><p>The queue supports a coordinated haulage operation: trucks are staged so the excavator can continue loading as vehicles arrive and leave. Material removal links excavation progress to access, loading space and truck turnaround.</p><div class="status unknown">Unknown</div><p>The photographs do not establish daily tonnage, excavation volume, truck capacity, waiting time or disposal destination. A long queue alone does not tell us whether the fleet is efficiently matched to the excavator.</p></article>
+        <figure class="haulage-photo"><img loading="lazy" src="images/web/IMG_5328.jpg" alt="CAT 330D loading brown excavated material into a dump truck"><figcaption>IMG_5327 and IMG_5328 capture the same loading operation three seconds apart, not two separate truckloads.</figcaption></figure>
+      </div>
+    </div>
+    <p class="note"><b>Placing the evidence in time:</b> these four iPhone photographs were taken around 7:20 a.m. on September 11, before the afternoon Canon set. They strengthen the evidence for active material removal; they do not demonstrate additional deepening after the afternoon photographs. Unchanged HEIC originals are retained, with JPEG viewing copies in the gallery.</p>
+    <h3>The ground drops. The casings emerge.</h3>
     <p class="lede">Excavation is now the most visible operation. Six distinct excavators appear across this photo set, from a mini CAT working in narrow gaps to a large CAT 390F handling bulk earthwork.</p>
     <div class="grid" style="margin-top:28px">
       <article class="card"><div class="status observed">Observed</div><h3>More steel above the ground</h3><p>Compare casings 49 and 40 on September 10 and 11 below. More of their sides are exposed as surrounding ground is removed. Steel posts and horizontal lagging remain visible along the retained boundary.</p></article>
