@@ -19,7 +19,7 @@ Every interpretation must distinguish:
 Do not overclaim exact shaft depths, diameters, capacities, bearing strata, structural load maps, or contractor identities unless independently confirmed.
 
 ## 3. Current engineering interpretation
-The site is in deep-foundation / excavation / substructure work.
+Latest closeout: September 11, 2026. Excavation around installed shafts is now prominent. The observer reports the drilling rig gone; it is visible in the September 4 overview and absent from the September 10 overview. Completion of the whole shaft program is unknown. The drilling/cage/concrete observations below document earlier phases, not a claim that all those operations continue today.
 
 Observed:
 - Multiple sizes of drilled-shaft foundations.
@@ -102,7 +102,15 @@ Three separate street-level images showing Clydz / Paterson Street and a June 20
 ## 8. Photo-update workflow
 The user usually takes site photos on iPhone and may share them in ChatGPT first for analysis. Binary images must ultimately exist in the repo before the live website can reference them reliably.
 
-Preferred workflow:
+Current preferred workflow (updated September 11):
+1. User points to a local photo folder or camera card. Verify that it exists and inventory actual files.
+2. Inspect each image, decode it, check camera dates/orientation, and compare against repo filenames and hashes.
+3. Copy originals unchanged into `images/originals/` before adding references. Preserve the source card. Enhance only when useful; keep any derivative separate and clearly labeled.
+4. Update dated captions, equipment guide, Site Evolution and interpretations. Correct earlier errors explicitly, preserving historical context.
+5. Check image paths, JavaScript, desktop/mobile rendering and interactions. Commit and publish to the existing GitHub Pages repository, then verify the live update.
+6. Update this handoff and a dated record with evidence, corrections and unresolved questions.
+
+The earlier GitHub-upload workflow remains supported:
 1. User takes photos on iPhone and may send them to ChatGPT for interpretation.
 2. On Mac, user exports the selected day's new images.
 3. User uploads them to GitHub under `images/originals/` in one batch.
@@ -118,14 +126,15 @@ User can paste:
 
 A future agent should treat this repository file as the canonical project handoff, then inspect current repo state before editing.
 
-## 10. Latest not-yet-closed field observations
-Most recent shared field evidence includes:
-- Work continuing after the long weekend with mass excavation and deep-foundation activity ongoing.
-- Perimeter shoring/excavation support especially visible along site edges.
-- Several sizes of excavators working concurrently, illustrating bulk earthmoving versus more constrained/precise excavation.
-- Additional zoom photographs show numbered casings, stacked/cut reinforcing cages and casing segments, excavators working around shaft locations, and closer views of excavation support along the perimeter.
-
-Before publishing captions for any newly shared photo, verify that the corresponding file has been uploaded to `images/originals/`.
+## 10. Latest photo closeout — September 11, 2026
+- All 12 Canon originals IMG_6254.JPG–IMG_6265.JPG are in the repo and gallery. SHA-256 and EXIF: `records/2026-09-11-photos.json`; evidence and correction log: `records/2026-09-11-closeout.md`.
+- Six distinct excavators across the batch: CAT 390F, CAT 330D, Volvo (model unknown), CAT beside casings 49/40 (model unknown), smaller CAT with blade (model unknown), CAT mini (model unknown). Do not count repeated views as extra machines or treat visual relative sizes as rated weight classes.
+- New evidence: deeper excavation exposes longer casing lengths. Compare IMG_6245 with IMG_6254 at IDs 49/40. North/south wall orientation and rig departure are observer reports. Shoring design capacity remains unknown.
+- Corrected mismatched captions across the prior Canon batch. IMG_6230–6232 are September 4 by camera metadata. IMG_6238 is a large CAT, not compact; IMG_6243 is reinforcement/casing material, not a rig; IMG_6247 shows CAT 390F markings, not shoring. See dated record for all corrections.
+- `latest.js` contains the current dated update and correction disclosure; `history.js` now includes 12 sequence views (nine historical plus September 4, 10, 11 milestones).
+- `adjacent.js`, `images/adjacent/`, and `ADJACENT_SITE_NOTE.md` document the existing neighboring-project voided-slab teaching example. It remains separate from HELIX 3. A duplicate global declaration was fixed so this section renders.
+- Recovery review confirmed the six individual machines (not six verified models/classes) and the byte-for-byte camera copies. Field-guide images open in the lightbox; closed guide rows remain compact beside open rows. Desktop 1440px and mobile 390px checks passed for navigation, gallery modes, image paths and lightbox. See the dated closeout for evidence and validation.
+- No outstanding photo folder from this session. Next evidence to watch: shaft-head trimming, horizontal reinforcement/cap or mat work, or new shoring/groundwater equipment. Do not infer full shaft completion from rig departure.
 
 ## 11. Important safety/editorial caution
 This is an educational visual interpretation, not project design documentation or formal engineering certification. Do not state measurements or structural conclusions as fact unless supported by project records.

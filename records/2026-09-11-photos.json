@@ -1,0 +1,122 @@
+[
+  {
+    "file": "IMG_6254.JPG",
+    "sha256": "540e62a44e7ec911cf72438c258365140397da411789c1133b165f0d1c31255e",
+    "bytes": 7216550,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:19"
+  },
+  {
+    "file": "IMG_6255.JPG",
+    "sha256": "3c0c2e02e3945db6dc24e2ca43536e4e022620159f5189d42662aff0218201d8",
+    "bytes": 7268661,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:24"
+  },
+  {
+    "file": "IMG_6256.JPG",
+    "sha256": "4b5358e9698a659bfa6cdff7907df951d232b2d8c28a6e6f5d7f93a66fff8a9f",
+    "bytes": 7555339,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:35"
+  },
+  {
+    "file": "IMG_6257.JPG",
+    "sha256": "e38eeb10e097c97ee8a667f1b5d407fe7b4c8dffa9e332b9f126af92d76ec741",
+    "bytes": 7441826,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:40"
+  },
+  {
+    "file": "IMG_6258.JPG",
+    "sha256": "feff34f73e4293e289eaa930480722367f40c43423dd0c0c6247504108c2b1ab",
+    "bytes": 6705804,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:47"
+  },
+  {
+    "file": "IMG_6259.JPG",
+    "sha256": "04c482e451dbe39c35a3c271c4825fd4ea4a6d482908582ae0dedc161783704b",
+    "bytes": 8202710,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:33:59"
+  },
+  {
+    "file": "IMG_6260.JPG",
+    "sha256": "4c2347fc41ad94494c5e4130389998e6eb063a433517eba1b8e94b4f60180245",
+    "bytes": 5824935,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:01"
+  },
+  {
+    "file": "IMG_6261.JPG",
+    "sha256": "c2eb6248bd56321005d3e2ccb24043e55b451ca66ab390f094bf26bbcd3d2a4e",
+    "bytes": 6465704,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 1,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:09"
+  },
+  {
+    "file": "IMG_6262.JPG",
+    "sha256": "ff015514eca3519b3a33663d344f37586ffae9c80909f43d6b5861871b757eb8",
+    "bytes": 7162156,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 8,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:18"
+  },
+  {
+    "file": "IMG_6263.JPG",
+    "sha256": "73a75b1265d5399db370002520302240b3652a16cfa3858bcb32fdaca7ba40f6",
+    "bytes": 6378727,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 8,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:22"
+  },
+  {
+    "file": "IMG_6264.JPG",
+    "sha256": "f3c316ba7bc9fd23fff1ea7c8c46ad60e18167814e9ee19120bd74784bcd74ff",
+    "bytes": 6502096,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 8,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:31"
+  },
+  {
+    "file": "IMG_6265.JPG",
+    "sha256": "8667909f88a812820b1c684a6f51ff63835782563b56cbe14c9b39119f824ddf",
+    "bytes": 6667278,
+    "width": 5184,
+    "height": 3456,
+    "orientation": 8,
+    "camera": "Canon EOS 60D",
+    "cameraDateTime": "2026:09:11 15:35:33"
+  }
+]

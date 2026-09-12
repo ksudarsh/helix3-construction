@@ -1,3 +1,4 @@
+(()=>{
 const adjacent=document.createElement('section');
 adjacent.id='adjacent-example';
 adjacent.className='section';
@@ -7,3 +8,5 @@ if(updates) updates.before(adjacent);
 const navWrap=document.querySelector('.nav .wrap');
 if(navWrap&&!navWrap.querySelector('a[href="#adjacent-example"]')){const link=document.createElement('a');link.href='#adjacent-example';link.textContent='Adjacent example';const updatesLink=[...navWrap.querySelectorAll('a')].find(a=>a.getAttribute('href')==='#updates');if(updatesLink)navWrap.insertBefore(link,updatesLink);else navWrap.appendChild(link);}
 adjacent.querySelectorAll('img').forEach(img=>img.onclick=()=>{const lb=document.querySelector('.lightbox');if(!lb)return;const im=lb.querySelector('img');im.src=img.src;im.alt=img.alt;lb.classList.add('open');});
+
+})();
