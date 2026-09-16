@@ -149,3 +149,4 @@ This is an educational visual interpretation, not project design documentation o
 - General reference: FHWA-NHI-18-024 §7.3.4 for concrete shaft-head completion, linked on the page. It does not establish project-specific requirements.
 - Preserve six-excavator identification work and September 11 morning/afternoon ordering. North/south orientation remains observer-supplied.
 - Validation: JavaScript/asset paths and unchanged camera bytes checked; desktop 1280px and mobile 390px reviewed, including all annotations, gallery modes, menu and lightbox. No horizontal overflow or browser console errors. See the dated closeout.
+- Publication: September 15 content deployed successfully from `dd25ba8`. Use the connected GitHub tools if local Git HTTPS authentication is unavailable; verify exact tree hashes and synchronize the checkout. Root JS/CSS URLs carry `?v=20260915` to prevent stale cached scripts; bump this version when changing these assets together.
