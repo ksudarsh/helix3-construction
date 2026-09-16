@@ -391,5 +391,37 @@ window.HELIX_PHOTOS=[
     "caption": "Observed: the bucket has moved above the same truck and brown material has accumulated in its bed. The camera timestamps place this frame three seconds after IMG_5327. This documents part of one loading operation, not two truckloads; total excavation volume and haul-cycle duration remain unknown.",
     "annotated": false,
     "date": "2026-09-11"
+  },
+  {
+    "file": "IMG_6266.JPG",
+    "date": "2026-09-15",
+    "title": "September 15 — Sparks at the casing cut",
+    "caption": "Observed: a worker produces a bright shower of sparks at the steel casing; part of the shell is open, revealing concrete and reinforcement. The observer reports gas cutting. Likely: removal of the exposed upper casing to provide access to the shaft head. Unknown: final cutoff level and the exact gas/fuel combination.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6266.svg"
+  },
+  {
+    "file": "IMG_6268.JPG",
+    "date": "2026-09-15",
+    "title": "September 15 — Excavation, cutting and casing removal",
+    "caption": "Observed: excavators, tall exposed casings, cutting work along the boundary and detached curved steel sections occupy the same view. Likely: excavation and upper-casing removal are advancing together. No excavation depth or completion percentage can be measured reliably from this photograph.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6268.svg"
+  },
+  {
+    "file": "IMG_6271.JPG",
+    "date": "2026-09-15",
+    "title": "September 15 — Inside the opened steel shell",
+    "caption": "Observed: cut casing edges reveal a concrete shaft head, projecting vertical bars and circular reinforcement. Gas cylinders and hoses are nearby. Likely: preparation for later shaft-head connection work. Unknown: final trimming level, concrete acceptance and the future cap, mat or grade-beam layout.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6271.svg"
+  },
+  {
+    "file": "IMG_6272.JPG",
+    "date": "2026-09-15",
+    "title": "September 15 — The deeper casing corridor",
+    "caption": "Observed: casings 48, 49 and 40 rise above the lower working surface beside steel-post-and-lagging shoring. Compare casing 49 with September 11. Likely: further soil removal has exposed more casing length; the photographs do not measure the change in elevation.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6272.svg"
   }
 ];

@@ -19,7 +19,7 @@ Every interpretation must distinguish:
 Do not overclaim exact shaft depths, diameters, capacities, bearing strata, structural load maps, or contractor identities unless independently confirmed.
 
 ## 3. Current engineering interpretation
-Latest closeout: September 11, 2026. Excavation around installed shafts is now prominent. The observer reports the drilling rig gone; it is visible in the September 4 overview and absent from the September 10 overview. Completion of the whole shaft program is unknown. The drilling/cage/concrete observations below document earlier phases, not a claim that all those operations continue today.
+Latest closeout: September 15, 2026. Upper casing is now visibly cut open, exposing concrete shaft heads and projecting reinforcement. Cutting sparks, cylinders and hoses support the observer’s report of gas cutting; exact fuel is unknown. Final trimming level, concrete acceptance and the role of retained lower casing remain unconfirmed. September 11 background follows: Excavation around installed shafts is now prominent. The observer reports the drilling rig gone; it is visible in the September 4 overview and absent from the September 10 overview. Completion of the whole shaft program is unknown. The drilling/cage/concrete observations below document earlier phases, not a claim that all those operations continue today.
 
 Observed:
 - Multiple sizes of drilled-shaft foundations.
@@ -126,7 +126,7 @@ User can paste:
 
 A future agent should treat this repository file as the canonical project handoff, then inspect current repo state before editing.
 
-## 10. Latest photo closeout — September 11, 2026
+## 10. Previous photo closeout — September 11, 2026
 - All 12 Canon originals IMG_6254.JPG–IMG_6265.JPG are in the repo and gallery. SHA-256 and EXIF: `records/2026-09-11-photos.json`; evidence and correction log: `records/2026-09-11-closeout.md`.
 - Six distinct excavators across the batch: CAT 390F, CAT 330D, Volvo (model unknown), CAT beside casings 49/40 (model unknown), smaller CAT with blade (model unknown), CAT mini (model unknown). Do not count repeated views as extra machines or treat visual relative sizes as rated weight classes.
 - New evidence: deeper excavation exposes longer casing lengths. Compare IMG_6245 with IMG_6254 at IDs 49/40. North/south wall orientation and rig departure are observer reports. Shoring design capacity remains unknown.
@@ -139,3 +139,13 @@ A future agent should treat this repository file as the canonical project handof
 
 ## 11. Important safety/editorial caution
 This is an educational visual interpretation, not project design documentation or formal engineering certification. Do not state measurements or structural conclusions as fact unless supported by project records.
+
+## 12. Latest closeout — September 15, 2026
+- Inspected all seven real Canon JPEGs on the supplied card; ignored AppleDouble sidecars. Selected only IMG_6266, IMG_6268, IMG_6271 and IMG_6272.JPG, copied byte-for-byte and decoded. Camera dates agree with September 15. `records/2026-09-15-photos.json` records hashes, camera times, selection and rejection reasons for all seven.
+- IMG_6266 shows active cutting sparks; IMG_6268 is the useful excavation overview; IMG_6271 best shows open shells, concrete, reinforcement and gas cylinders; IMG_6272 documents the deeper casing/shoring corridor. IMG_6269, 6270 and 6273 were left on the card as overlapping/weaker views. Do not add them automatically.
+- Four standalone annotated SVGs in `images/annotated/` embed the unchanged JPEG bytes with numbered vector callouts and an explanatory footer. No generative edits, color enhancement or fabricated detail. Gallery supports an optional `annotation` path alongside the existing `annotated` flag; originals remain accessible using Original photographs.
+- `september15.js` is the latest section (`#latest`); September 11 remains in `latest.js` under `#update-sept11`, including the haulage story and prior corrections. Hero and overview are current; field guide and Site Evolution include casing cutting. Gallery: 64 entries. Timeline: 14 views.
+- Interpretation change: earlier scrap suggested casing cutback; cutting and opened shells are now directly observed. Likely shaft-head access/preparation, not proof of final cap design, all-shaft completion, concrete quality or removal of all casing. Do not call the exposed concrete defective based on its rough appearance.
+- General reference: FHWA-NHI-18-024 §7.3.4 for concrete shaft-head completion, linked on the page. It does not establish project-specific requirements.
+- Preserve six-excavator identification work and September 11 morning/afternoon ordering. North/south orientation remains observer-supplied.
+- Validation: JavaScript/asset paths and unchanged camera bytes checked; desktop 1280px and mobile 390px reviewed, including all annotations, gallery modes, menu and lightbox. No horizontal overflow or browser console errors. See the dated closeout.

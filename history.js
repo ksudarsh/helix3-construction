@@ -12,7 +12,8 @@ const stages=[
 {file:'../originals/IMG_6232.JPG',stage:'September 4, 2026',title:'The rig is still present',text:'The dated camera overview shows the tall drilling rig at the far end of the footprint. This corrects its earlier September 10 label.'},
 {file:'../originals/IMG_6241.JPG',stage:'September 10, 2026',title:'Excavators take the foreground',text:'A varied excavator fleet occupies the site. The tall drilling rig in the September 4 overview is no longer visible; the status of the full shaft program remains unknown.'},
 {file:'../web/IMG_5325.jpg',stage:'September 11, 2026 · Morning',title:'The haulage operation comes into view',text:'Dump trucks line the boundary lane while excavators work among exposed casings and soil stockpiles. Close views show soil being loaded into a truck. These morning images precede the afternoon Canon set; quantities and haul destinations remain unknown.'},
-{file:'../originals/IMG_6254.JPG',stage:'September 11, 2026',title:'More casing is exposed',text:'Excavation reveals longer casing sections beside the shoring. The observer reports the drilling rig gone. The next clues will be shaft-head treatment and reinforcement connecting the foundations.'}
+{file:'../originals/IMG_6254.JPG',stage:'September 11, 2026',title:'More casing is exposed',text:'Excavation reveals longer casing sections beside the shoring. The observer reports the drilling rig gone. The next clues will be shaft-head treatment and reinforcement connecting the foundations.'},
+{file:'../originals/IMG_6271.JPG',stage:'September 15, 2026',title:'The steel opens to reveal concrete',text:'Upper casing sections are cut open, exposing concrete and reinforcement. The cutting and removed steel clarify the transition from drilling and placement to access around the shaft heads. Final connection details remain unknown.'}
 ];
 const section=document.createElement('section');
 section.id='history';

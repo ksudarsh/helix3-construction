@@ -1,6 +1,6 @@
 (()=>{
   const section=document.createElement('section');
-  section.id='latest';
+  section.id='update-sept11';
   section.className='section';
   section.innerHTML=`<div class="wrap">
     <div class="eyebrow">Field update · September 11, 2026</div>
@@ -31,7 +31,7 @@
   </div>`;
   document.querySelector('#what').before(section);
   const nav=document.querySelector('.nav .wrap');
-  const link=document.createElement('a'); link.href='#latest'; link.textContent='Latest update';
+  const link=document.createElement('a'); link.href='#update-sept11'; link.textContent='September 11';
   nav.insertBefore(link,nav.querySelector('a'));
   section.querySelectorAll('img').forEach(img=>img.addEventListener('click',()=>openLightbox(img.src,img.alt)));
 })();

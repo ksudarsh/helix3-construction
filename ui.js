@@ -7,7 +7,7 @@
     heroInner.appendChild(actions);
     const stats=document.createElement('div');
     stats.className='hero-stats';
-    stats.innerHTML=`<div><strong>6 excavators</strong><span>September 11 photo set</span></div><div><strong>Deeper excavation</strong><span>more casing exposed</span></div><div><strong>Sept 11</strong><span>latest field update</span></div>`;
+    stats.innerHTML=`<div><strong>Casing cutback</strong><span>concrete now visible</span></div><div><strong>Deeper excavation</strong><span>more casing exposed</span></div><div><strong>Sept 15</strong><span>latest field update</span></div>`;
     heroInner.appendChild(stats);
   }
 

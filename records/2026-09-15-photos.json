@@ -1,0 +1,65 @@
+[
+  {
+    "file": "IMG_6266.JPG",
+    "sha256": "497dd5e85630919bc75c992c6c12677b26f23943abd1e64c9114f2a5743c197d",
+    "bytes": 6982335,
+    "cameraDateTime": "2026:09:15 11:58:54",
+    "orientation": 8,
+    "selected": true,
+    "reason": "Cutting sparks clearly visible at the casing"
+  },
+  {
+    "file": "IMG_6268.JPG",
+    "sha256": "031d9bc71f3881c228548783e4854a417e1136b702d42318bc0f157175b3f898",
+    "bytes": 6500096,
+    "cameraDateTime": "2026:09:15 11:59:07",
+    "orientation": 1,
+    "selected": true,
+    "reason": "Useful landscape overview of excavation and removed casing"
+  },
+  {
+    "file": "IMG_6269.JPG",
+    "sha256": "20b8e589c0f60f7b94fa4175d706b18a59f1e4203cc51de005bc87d68b12e27f",
+    "bytes": 6616032,
+    "cameraDateTime": "2026:09:15 11:59:15",
+    "orientation": 8,
+    "selected": false,
+    "reason": "Overview repeats 6268 with less detail and a window sill"
+  },
+  {
+    "file": "IMG_6270.JPG",
+    "sha256": "4e16f22fcfc887e13302a07b254f6b55c08c0f4930eaf460a20eac66aefab4a9",
+    "bytes": 6874391,
+    "cameraDateTime": "2026:09:15 12:00:04",
+    "orientation": 1,
+    "selected": false,
+    "reason": "Cutting view overlaps 6266 and 6271; highlights are more distracting"
+  },
+  {
+    "file": "IMG_6271.JPG",
+    "sha256": "ff5c5614480d99dfdb0f08508bab79f7a4dd505e475df0d232a15f530b5f32d1",
+    "bytes": 6931070,
+    "cameraDateTime": "2026:09:15 12:00:10",
+    "orientation": 8,
+    "selected": true,
+    "reason": "Clearest relationship of cut steel, concrete, reinforcement and gas equipment"
+  },
+  {
+    "file": "IMG_6272.JPG",
+    "sha256": "13ad91a1880e16c4d042706f7afbe4a810665ae7e1ef34e8440147425474a871",
+    "bytes": 6920961,
+    "cameraDateTime": "2026:09:15 12:00:53",
+    "orientation": 8,
+    "selected": true,
+    "reason": "Distinct deeper casing corridor and shoring context"
+  },
+  {
+    "file": "IMG_6273.JPG",
+    "sha256": "9b3ecdb8e861ef73ce7bc67f0a16a27ec1556a92b666bc5ef732ae6fad6e9262",
+    "bytes": 7620152,
+    "cameraDateTime": "2026:09:15 12:01:01",
+    "orientation": 8,
+    "selected": false,
+    "reason": "Distant overview repeats 6268; much of frame is surrounding skyline"
+  }
+]
