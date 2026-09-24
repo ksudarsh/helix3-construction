@@ -1,0 +1,15 @@
+{
+  "photos": [
+    {
+      "file": "IMG_0060.jpeg",
+      "date": "2026-09-24",
+      "sha256": "3cc56d88e23ed548aad8f73c09c61936b61f42077e668b054a09de8b3dec9d3c",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "selected": true,
+      "annotation": "images/annotated/IMG_0060.svg"
+    }
+  ]
+}

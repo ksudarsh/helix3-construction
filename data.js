@@ -423,5 +423,53 @@ window.HELIX_PHOTOS=[
     "caption": "Observed: casings 48, 49 and 40 rise above the lower working surface beside steel-post-and-lagging shoring. Compare casing 49 with September 11. Likely: further soil removal has exposed more casing length; the photographs do not measure the change in elevation.",
     "annotated": true,
     "annotation": "images/annotated/IMG_6272.svg"
+  },
+  {
+    "file": "IMG_0008.jpeg",
+    "date": "2026-09-16",
+    "title": "September 16 — Separated casing across the excavation",
+    "caption": "Observed: multiple cut casing sections lie horizontally beside a large excavator while completed shaft locations remain visible across the site. Together with the September 15 cutting photographs, this records the move from cutting to separated steel awaiting handling.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0008.svg"
+  },
+  {
+    "file": "IMG_0019.jpeg",
+    "date": "2026-09-16",
+    "title": "September 16 — Excavator handling removed casing",
+    "caption": "Observed: an excavator bucket bears directly on an opened steel casing section among other cut shells. The site observer saw removed sections flattened, loaded and hauled away for recycling. The photograph documents the handling and deformation stage; the haul destination remains observer-supplied.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0019.svg"
+  },
+  {
+    "file": "IMG_0055.jpeg",
+    "date": "2026-09-22",
+    "title": "September 22 — Mass excavation reveals the shaft field",
+    "caption": "Observed: the working surface has dropped around numerous drilled-shaft heads while two large excavators work across a broad, angular, rock-rich zone. Likely: the material is weathered or broken rock, rock fill, or another coarse stratum. The photograph alone does not establish intact bedrock or an excavation depth.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0055.svg"
+  },
+  {
+    "file": "IMG_0054.jpeg",
+    "date": "2026-09-22",
+    "title": "September 22 — Human scale beside the shaft heads",
+    "caption": "Observed: workers beside the nearest cased shaft show its exceptional scale. Farther along the wall, rough concrete and projecting reinforcement are exposed where upper casing has been removed. The rough surface alone does not establish defective concrete; the bars are intentional reinforcement for a future structural connection.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0054.svg"
+  },
+  {
+    "file": "IMG_0056.jpeg",
+    "date": "2026-09-22",
+    "title": "September 22 — A casing split into removable halves",
+    "caption": "Observed: one longitudinal half of the upper casing remains standing beside the exposed reinforcement while the matching curved half lies to the right. This is direct evidence that the exposed casing is being split and removed. The clean thermal cut is visible, but the photograph does not establish the specific fuel gas.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0056.svg"
+  },
+  {
+    "file": "IMG_0060.jpeg",
+    "date": "2026-09-24",
+    "title": "September 24 — A deeper pocket reveals two shaft heads",
+    "caption": "Observed: a CAT excavator works beside a localized, water-filled deeper cut containing two exposed drilled-shaft heads. Angular, rock-rich material covers the surrounding working surface. The retained boundary wall appears taller from the lowered excavation floor; the photo does not prove that the shoring was extended. A red service truck is beside a Volvo excavator; the observer reports routine morning refueling, but fuel transfer is not visible in this frame.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0060.svg"
   }
 ];

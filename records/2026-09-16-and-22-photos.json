@@ -1,0 +1,59 @@
+{
+  "photos": [
+    {
+      "file": "IMG_0008.jpeg",
+      "sha256": "e29adc88d02f1ab0bbb6953a454cefefb36fb369bb3fd35fdaa97730ec3b8892",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "selected": true
+    },
+    {
+      "file": "IMG_0019.jpeg",
+      "sha256": "cc06aeb367d48f5755272cff00eaa42484193b4cdcd5578f2b1d5058ba609148",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "selected": true
+    },
+    {
+      "file": "IMG_0055.jpeg",
+      "sha256": "54798a68d636a429125dfc268edd0ee5e654554520d3a94eb37d2bf2ef2263e8",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "selected": true
+    },
+    {
+      "file": "IMG_0054.jpeg",
+      "sha256": "dfe0407eab80121aed271870c7e32c0f21f7d74560df54790fd5a5b11aa87f4b",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "selected": true
+    },
+    {
+      "file": "IMG_0056.jpeg",
+      "sha256": "3dc34a04bc2c3d1c28016df6bd43e237c4085a0fbf724a3edd865c2dec57904c",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "selected": true
+    },
+    {
+      "file": "IMG_0053.jpeg",
+      "sha256": "cd113d3964823bc7f64cbc4c653cf48c6911143ea863d6eae2a3beedf04d822f",
+      "dimensions": [
+        864,
+        1536
+      ],
+      "selected": false,
+      "reason": "Near-duplicate of IMG_0054.jpeg; selected view has the clearest human-scale gesture."
+    }
+  ]
+}

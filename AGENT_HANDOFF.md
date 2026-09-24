@@ -19,7 +19,7 @@ Every interpretation must distinguish:
 Do not overclaim exact shaft depths, diameters, capacities, bearing strata, structural load maps, or contractor identities unless independently confirmed.
 
 ## 3. Current engineering interpretation
-Latest evidence: September 16, 2026. The casing lifecycle is now substantially resolved. Earlier photographs showed casing installation; later excavation exposed longer casing lengths; September 15 photographs directly showed cutting sparks and opened shells; September 16 observations show separated casing sections lying horizontally while concrete drilled-shaft heads and projecting reinforcement become more exposed. The user has also directly observed cut casing flattened by a large excavator, loaded into bins or dump trucks, and hauled away for recycling. Recycling is therefore **Observed**, not Likely.
+Latest evidence: September 24, 2026. Mass excavation has exposed many drilled-shaft heads, including two inside a deeper water-filled pocket. Angular, rock-rich material is being excavated, and a greater height of perimeter shoring is visible as the working level drops. Earlier photographs showed casing installation; September 15 showed cutting sparks; September 16 showed separated shells; September 22 showed a casing split into removable halves. The observer has directly seen cut casing flattened, loaded and hauled away for recycling. Recycling is therefore **Observed**, not Likely.
 
 Observed:
 - Multiple sizes of drilled-shaft foundations.
@@ -32,6 +32,8 @@ Observed:
 - As excavation deepens, upper casing is exposed and cut away in sections.
 - Separated casing shells are moved aside; the user has directly observed them flattened by excavator, loaded, hauled away, and recycled.
 - Concrete drilled-shaft heads and projecting reinforcement are increasingly exposed as surrounding soil is removed.
+- Two drilled-shaft heads are exposed in a localized water-filled pocket in the September 24 photograph; the reason for standing water remains unknown.
+- More of the shoring wall is exposed as the working level falls; the photograph does not show a physical wall extension.
 - Shaft IDs such as 31, 33, 40, 41, 45, 46 and others are markings for individual shaft locations, not diameters.
 - Perimeter excavation support/shoring is visible along the site boundaries.
 - Excavators of several sizes are used for different tasks and constrained work zones.
@@ -160,3 +162,19 @@ This is an educational visual interpretation, not project design documentation o
 - `index.html` and `september15.js` were reworked on September 16 so the site tells the chronology rather than repeating isolated observations: installation → excavation exposure → cutting → separated shell sections → flattening/recycling → exposed shaft heads → future structural connection.
 - Cache-busting version in `index.html` was bumped to `20260916`.
 - The September 16 iPhone images shared in chat are evidence for interpretation but are not yet referenced on the live website unless/until they are uploaded into the repo and explicitly added to `data.js` or a dated section.
+
+## 14. September 16 photo closeout and September 22 update
+- September 16 chat originals were recovered. Only `IMG_0008.jpeg` and `IMG_0019.jpeg` were selected for the site: the first is the strongest wide view of separated casing; the second directly shows excavator handling/deformation of an opened shell. Overlapping frames remain outside the gallery.
+- September 22 `IMG_0055.jpeg` is the wide mass-excavation view. It shows numerous drilled-shaft heads and two large excavators working across an angular, rock-rich zone.
+- September 22 `IMG_0054.jpeg` is the selected close view because workers beside the nearest shaft provide scale while rough concrete and projecting reinforcement are visible farther along the wall. `IMG_0053.jpeg` is a near-duplicate and is intentionally omitted from the site.
+- September 22 `IMG_0056.jpeg` is unique evidence of the removal method: one longitudinal casing half remains vertical beside the shaft and the detached matching half lies to the right. Describe the cut as thermal/gas cutting; do not identify acetylene from the photograph alone.
+- Use **drilled-shaft heads / foundation shafts**, not sunken columns. Rough exposed concrete alone is not evidence of defective concrete; projecting reinforcement is intentional for a later cap, grade beam, wall base or mat connection.
+- Describe the coarse excavation material as **angular, rock-rich material**. Weathered/broken rock or rock fill is plausible; intact bedrock is not established by the photographs.
+- `september22.js` contains the newest narrative section. The gallery adds five annotated records across September 16 and 22; Site Evolution adds one milestone for each date.
+- `records/2026-09-16-and-22-closeout.md` and the companion JSON record selections, hashes and excluded overlap.
+
+## 15. September 24 observation
+- `IMG_0060.jpeg` documents a localized deeper, water-filled excavation around two drilled-shaft heads, angular rock-rich material, and a CAT excavator beside the cut. The observer identifies this as the 390, but its model marking is not visible in this frame.
+- The taller-looking shoring reflects a greater exposed wall height as the excavation floor drops. Do not claim the support wall was extended or that capacity changed without separate evidence.
+- A red service truck is beside a Volvo excavator. Morning refueling is an observer report; an active fuel transfer is not visible in this frame.
+- The image has a dedicated September 24 section, gallery entry, annotated SVG and Site Evolution milestone. Keep the Observed / Likely / Unknown distinctions in later updates.
