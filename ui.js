@@ -31,6 +31,12 @@
     .process>.step:before{position:static!important;display:grid!important;margin:0 0 18px 0!important;width:36px!important;height:36px!important}
     .process>.step h3{margin-top:0!important}
     @media(max-width:720px){.process>.step{padding:18px!important}.process>.step:before{margin-bottom:16px!important}}
+    .page-jumps{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:60;display:grid;gap:8px}
+    .page-jumps button{width:46px;height:46px;border:1px solid rgba(255,255,255,.3);border-radius:50%;background:var(--navy-2);color:#fff;box-shadow:var(--shadow);font:700 1.55rem/1 system-ui,sans-serif;cursor:pointer;transition:transform .2s ease,opacity .2s ease}
+    .page-jumps button:hover:not(:disabled){transform:translateY(-2px);background:var(--accent-dark)}
+    .page-jumps button:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+    .page-jumps button:disabled{opacity:.38;cursor:default}
+    @media(prefers-reduced-motion:reduce){.page-jumps button{transition:none}}
   `;
   document.head.appendChild(fixStyle);
 
@@ -56,9 +62,21 @@
   const progress=document.createElement('div');
   progress.className='scroll-progress';
   document.body.prepend(progress);
+  const jumps=document.createElement('div');
+  jumps.className='page-jumps';
+  jumps.setAttribute('role','group');
+  jumps.setAttribute('aria-label','Page navigation');
+  jumps.innerHTML='<button type="button" aria-label="Back to top" title="Back to top">↑</button><button type="button" aria-label="Go to bottom" title="Go to bottom">↓</button>';
+  document.body.appendChild(jumps);
+  const [jumpTop,jumpBottom]=jumps.querySelectorAll('button');
+  const jumpTo=top=>scrollTo({top,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
+  jumpTop.addEventListener('click',()=>jumpTo(0));
+  jumpBottom.addEventListener('click',()=>jumpTo(document.documentElement.scrollHeight));
   const updateProgress=()=>{
     const max=document.documentElement.scrollHeight-innerHeight;
     progress.style.transform=`scaleX(${max>0?scrollY/max:0})`;
+    jumpTop.disabled=scrollY<16;
+    jumpBottom.disabled=scrollY>=max-16;
   };
   addEventListener('scroll',updateProgress,{passive:true});
   addEventListener('resize',updateProgress);
