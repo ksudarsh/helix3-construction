@@ -7,8 +7,22 @@
     heroInner.appendChild(actions);
     const stats=document.createElement('div');
     stats.className='hero-stats';
-    stats.innerHTML=`<div><strong>Casing cutback</strong><span>concrete now visible</span></div><div><strong>Deeper excavation</strong><span>more casing exposed</span></div><div><strong>Sept 15</strong><span>latest field update</span></div>`;
+    stats.innerHTML=`<div><strong>Casing cutback</strong><span>concrete now visible</span></div><div><strong>Deeper excavation</strong><span>more casing exposed</span></div><div><strong data-latest-commit-date>Checking…</strong><span><a href="https://github.com/ksudarsh/helix3-construction/commits/main">latest commit</a></span></div>`;
     heroInner.appendChild(stats);
+    const latestCommitDate=stats.querySelector('[data-latest-commit-date]');
+    fetch('https://api.github.com/repos/ksudarsh/helix3-construction/commits/main',{
+      headers:{Accept:'application/vnd.github+json'},
+      cache:'no-store'
+    }).then(response=>{
+      if(!response.ok)throw new Error(`GitHub returned ${response.status}`);
+      return response.json();
+    }).then(({commit})=>{
+      const date=new Date(commit?.committer?.date||commit?.author?.date);
+      if(Number.isNaN(date.getTime()))throw new Error('Missing commit date');
+      latestCommitDate.textContent=new Intl.DateTimeFormat('en-US',{
+        month:'short',day:'numeric',year:'numeric',timeZone:'UTC'
+      }).format(date);
+    }).catch(()=>{latestCommitDate.textContent='See GitHub';});
   }
 
   const fixStyle=document.createElement('style');
