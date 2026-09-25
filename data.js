@@ -471,5 +471,45 @@ window.HELIX_PHOTOS=[
     "caption": "Observed: a CAT excavator works beside a localized, water-filled deeper cut containing two exposed drilled-shaft heads. Angular, rock-rich material covers the surrounding working surface. The retained boundary wall appears taller from the lowered excavation floor; the photo does not prove that the shoring was extended. A red service truck is beside a Volvo excavator; the observer reports routine morning refueling, but fuel transfer is not visible in this frame.",
     "annotated": true,
     "annotation": "images/annotated/IMG_0060.svg"
+  },
+  {
+    "file": "IMG_0061.heic",
+    "web": "images/web/IMG_0061.jpg",
+    "date": "2026-09-25",
+    "title": "September 25 — Dawn over the exposed shaft field",
+    "caption": "Observed: the working surface has dropped around many drilled-shaft heads while excavators, rock-rich material and localized standing water occupy the site. The wide view records excavation progress but does not provide a reliable depth measurement.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0062.heic",
+    "web": "images/web/IMG_0062.jpg",
+    "date": "2026-09-25",
+    "title": "September 25 — Lowering the compact excavator",
+    "caption": "Observed: a large CAT excavator suspends a compact CAT on a support platform over the deeper pocket while workers monitor the placement. The site observer watched the lowering. The orange ladder and people establish qualitative scale; lift depth and rigging design are not known.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0063.heic",
+    "web": "images/web/IMG_0063.jpg",
+    "date": "2026-09-25",
+    "title": "September 25 — The same placement, nine seconds later",
+    "caption": "Observed: the compact excavator remains suspended beside exposed shaft reinforcement as the coordinated lowering continues. Camera timestamps place this frame nine seconds after IMG_0062; these are two moments in one lift, not two separate operations.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0064.heic",
+    "web": "images/web/IMG_0064.jpg",
+    "date": "2026-09-25",
+    "title": "September 25 — A machine within the excavation",
+    "caption": "Observed: the compact excavator now occupies the lower pocket while large excavators remain on higher working surfaces. Likely role: detailed excavation and cleanup in constrained gaps around the foundation shafts. Exact elevations and production rates remain unknown.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0065.heic",
+    "web": "images/web/IMG_0065.jpg",
+    "date": "2026-09-25",
+    "title": "September 25 — Fine excavation around the shaft heads",
+    "caption": "Observed: the compact CAT works in standing water beside exposed drilled-shaft heads while a large CAT remains above. Workers and the orange ladder make the scale legible. The observer reports continued removal of exposed steel tubing; deeper retained casing is not visible or resolved.",
+    "annotated": false
   }
 ];

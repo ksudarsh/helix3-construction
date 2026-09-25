@@ -1,0 +1,10 @@
+{
+  "photos": [
+    {"file":"IMG_0061.heic","date":"2026-09-25","cameraDateTime":"2026:09:25 06:59:20","sha256":"84fa4ef363326dc5c7b185283c4e76cafd41ffcccbd5a9c6ed3b76ebfe20f379","bytes":2218882,"dimensions":[2268,4032],"selected":true,"reason":"Dawn overview records the excavation-wide state before the compact-machine placement"},
+    {"file":"IMG_0062.heic","date":"2026-09-25","cameraDateTime":"2026:09:25 08:21:41","sha256":"ed93d23ec2c9939ba05439ff2f9371f394e804196382194415ec24eafc1f9e01","bytes":824368,"dimensions":[2268,4032],"selected":true,"reason":"First frame of the compact excavator being lowered into the deeper pocket"},
+    {"file":"IMG_0063.heic","date":"2026-09-25","cameraDateTime":"2026:09:25 08:21:50","sha256":"4cf5f06b6695229ba70f007e07c44ff930cc37c449a44600d0f6c13fb759dd11","bytes":823346,"dimensions":[2268,4032],"selected":true,"reason":"Second frame nine seconds later documents the same coordinated placement sequence"},
+    {"file":"IMG_0064.heic","date":"2026-09-25","cameraDateTime":"2026:09:25 08:22:50","sha256":"56d512cf061e31926edd0ec16b06d6edbda448c8b7dbcd1ae019016e2443f86c","bytes":1783507,"dimensions":[2268,4032],"selected":true,"reason":"Wide context shows the compact machine at the lower level and the larger excavation fleet"},
+    {"file":"IMG_0065.heic","date":"2026-09-25","cameraDateTime":"2026:09:25 12:22:38","sha256":"c48b3b6e30bc6d1c8f9cb330041ba6388cc422bb9d0fb592b3b232401d51556f","bytes":1169773,"dimensions":[4032,2268],"selected":true,"reason":"Best close landscape view of compact excavation, shaft heads, ladder and workers for scale"}
+  ],
+  "derivatives": "Browser-compatible JPEG viewing copies are stored in images/web; HEIC originals are unchanged in images/originals."
+}

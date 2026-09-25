@@ -19,7 +19,7 @@ Every interpretation must distinguish:
 Do not overclaim exact shaft depths, diameters, capacities, bearing strata, structural load maps, or contractor identities unless independently confirmed.
 
 ## 3. Current engineering interpretation
-Latest evidence: September 24, 2026. Mass excavation has exposed many drilled-shaft heads, including two inside a deeper water-filled pocket. Angular, rock-rich material is being excavated, and a greater height of perimeter shoring is visible as the working level drops. Earlier photographs showed casing installation; September 15 showed cutting sparks; September 16 showed separated shells; September 22 showed a casing split into removable halves. The observer has directly seen cut casing flattened, loaded and hauled away for recycling. Recycling is therefore **Observed**, not Likely.
+Latest evidence: September 25, 2026. Mass excavation has exposed many drilled-shaft heads, including localized deeper, water-filled pockets. A large excavator lowered a compact CAT into one of these confined areas for finer excavation and cleanup around the shafts. Workers and an orange access ladder provide qualitative scale. Earlier photographs showed casing installation; September 15 showed cutting sparks; September 16 showed separated shells; September 22 showed a casing split into removable halves. The observer has directly seen cut casing flattened, loaded and hauled away for recycling and reports that exposed upper tubing continues to be removed. Recycling and the continuing removal operation are therefore **Observed**, not Likely.
 
 Observed:
 - Multiple sizes of drilled-shaft foundations.
@@ -37,6 +37,7 @@ Observed:
 - Shaft IDs such as 31, 33, 40, 41, 45, 46 and others are markings for individual shaft locations, not diameters.
 - Perimeter excavation support/shoring is visible along the site boundaries.
 - Excavators of several sizes are used for different tasks and constrained work zones.
+- On September 25, a large excavator lowered a compact CAT into a deeper pocket; the observer reports the compact machine was used for fine excavation and cleaning around the shaft heads.
 
 Likely:
 - Larger interior shafts serve heavier structural demands than smaller perimeter shafts.
@@ -178,3 +179,10 @@ This is an educational visual interpretation, not project design documentation o
 - The taller-looking shoring reflects a greater exposed wall height as the excavation floor drops. Do not claim the support wall was extended or that capacity changed without separate evidence.
 - A red service truck is beside a Volvo excavator. Morning refueling is an observer report; an active fuel transfer is not visible in this frame.
 - The image has a dedicated September 24 section, gallery entry, annotated SVG and Site Evolution milestone. Keep the Observed / Likely / Unknown distinctions in later updates.
+
+## 16. September 25 compact-excavator operation
+- Five iPhone HEIC originals, `IMG_0061.heic`–`IMG_0065.heic`, are preserved unchanged in `images/originals/`; browser JPEGs are in `images/web/`. Hashes, timestamps and selection reasons are in `records/2026-09-25-photos.json`.
+- `IMG_0062` and `IMG_0063`, nine seconds apart, show one coordinated operation in which a large CAT lowers a compact CAT on a support platform into the deeper pocket. Do not describe them as separate lifts.
+- `IMG_0065` best shows the compact excavator working near exposed drilled-shaft heads, with the large excavator above, workers at several levels and the orange ladder for scale.
+- The observer directly saw the lowering and reports that the compact machine performs finer excavation and cleaning around the shafts. The photographs support the constrained-access rationale but do not establish lift depth, rigging design or production rate.
+- Continued removal applies to exposed upper steel casing/tubing. Do not claim every casing is already gone or that no steel remains below the visible excavation.
