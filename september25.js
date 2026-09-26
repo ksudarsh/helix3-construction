@@ -1,8 +1,9 @@
 (()=>{
   const section=document.createElement('section');
   section.id='update-sept25';section.className='section';
+  section.dataset.updateDate='2026-09-25';
   section.innerHTML=`<div class="wrap">
-    <div class="eyebrow">Field update · September 25, 2026</div>
+    <div class="eyebrow">Field update</div>
     <h2>A compact excavator<br>goes down into the cut.</h2>
     <p class="lede">The excavation has moved beyond broad earthmoving alone. A large excavator lowered a compact CAT into a confined pocket so it could perform finer excavation and cleanup around the exposed drilled-shaft heads. Workers and the orange access ladder make the scale of the operation unusually clear.</p>
     <div class="cutting-grid">

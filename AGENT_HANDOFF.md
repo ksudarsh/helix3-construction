@@ -162,7 +162,7 @@ This is an educational visual interpretation, not project design documentation o
 - Direct observer evidence establishes the full upper-casing disposal sequence: cut sections are flattened by a large excavator, loaded into bins or dump trucks, hauled away, and recycled. This is **Observed**.
 - `index.html` and `september15.js` were reworked on September 16 so the site tells the chronology rather than repeating isolated observations: installation → excavation exposure → cutting → separated shell sections → flattening/recycling → exposed shaft heads → future structural connection.
 - Cache-busting version in `index.html` was bumped to `20260916`.
-- The September 16 iPhone images shared in chat are evidence for interpretation but are not yet referenced on the live website unless/until they are uploaded into the repo and explicitly added to `data.js` or a dated section.
+- The September 16 iPhone selections are now referenced in `data.js`, `september15.js` and Site Evolution; see Section 14.
 
 ## 14. September 16 photo closeout and September 22 update
 - September 16 chat originals were recovered. Only `IMG_0008.jpeg` and `IMG_0019.jpeg` were selected for the site: the first is the strongest wide view of separated casing; the second directly shows excavator handling/deformation of an opened shell. Overlapping frames remain outside the gallery.
@@ -171,7 +171,7 @@ This is an educational visual interpretation, not project design documentation o
 - September 22 `IMG_0056.jpeg` is unique evidence of the removal method: one longitudinal casing half remains vertical beside the shaft and the detached matching half lies to the right. Describe the cut as thermal/gas cutting; do not identify acetylene from the photograph alone.
 - Use **drilled-shaft heads / foundation shafts**, not sunken columns. Rough exposed concrete alone is not evidence of defective concrete; projecting reinforcement is intentional for a later cap, grade beam, wall base or mat connection.
 - Describe the coarse excavation material as **angular, rock-rich material**. Weathered/broken rock or rock fill is plausible; intact bedrock is not established by the photographs.
-- `september22.js` contains the newest narrative section. The gallery adds five annotated records across September 16 and 22; Site Evolution adds one milestone for each date.
+- `september22.js` contains the September 22 narrative section. The gallery adds five annotated records across September 16 and 22; Site Evolution adds one milestone for each date.
 - `records/2026-09-16-and-22-closeout.md` and the companion JSON record selections, hashes and excluded overlap.
 
 ## 15. September 24 observation
@@ -186,3 +186,9 @@ This is an educational visual interpretation, not project design documentation o
 - `IMG_0065` best shows the compact excavator working near exposed drilled-shaft heads, with the large excavator above, workers at several levels and the orange ladder for scale.
 - The observer directly saw the lowering and reports that the compact machine performs finer excavation and cleaning around the shafts. The photographs support the constrained-access rationale but do not establish lift depth, rigging design or production rate.
 - Continued removal applies to exposed upper steel casing/tubing. Do not claim every casing is already gone or that no steel remains below the visible excavation.
+
+## 17. Date display maintenance
+- Every narrative field-update section sets `section.dataset.updateDate` to its ISO observation date. A multi-day update also sets `section.dataset.updateStartDate`; September 15–16 is the current example.
+- The section eyebrow begins as `Field update`. At page load, `ui.js` formats all dated eyebrows and selects the newest update by ISO date. It places the `#latest` anchor there and fills the hero's latest-field-update date, the navigation label and the footer date. Do not hand-edit those repeated dates or point `#latest` at an older section.
+- The hero's separate latest-commit date comes from GitHub and describes repository activity, which may be later than the newest field observation. Keep those labels distinct.
+- When adding an update, give it a unique section ID and its own ISO date; add the script before `ui.js` in `index.html`, then bump cache versions for changed scripts. Check that the latest navigation link lands on the new section and the footer matches its observation date.

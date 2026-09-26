@@ -1,8 +1,9 @@
 (()=>{
   const section=document.createElement('section');
   section.id='update-sept22';section.className='section';
+  section.dataset.updateDate='2026-09-22';
   section.innerHTML=`<div class="wrap">
-    <div class="eyebrow">Field update · September 22, 2026</div>
+    <div class="eyebrow">Field update</div>
     <h2>The excavation opens up<br>the foundation field.</h2>
     <p class="lede">The site has changed scale again. Mass excavation has removed much more of the ground around the drilled shafts, exposing long shaft-head profiles, rough concrete where upper casing has been removed, and reinforcement waiting for the next structural connection.</p>
     <div class="cutting-grid">
@@ -25,7 +26,7 @@
       </div>
     </div>
   </div>`;
-  document.querySelector('#latest').before(section);
+  document.querySelector('#update-sept16').before(section);
   const nav=document.querySelector('.nav .wrap');const link=document.createElement('a');link.href='#update-sept22';link.textContent='September 22';nav.insertBefore(link,nav.querySelector('a'));
   section.querySelectorAll('img').forEach(img=>img.addEventListener('click',()=>openLightbox(img.src,img.alt)));
 })();

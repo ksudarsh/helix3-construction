@@ -7,7 +7,7 @@
     heroInner.appendChild(actions);
     const stats=document.createElement('div');
     stats.className='hero-stats';
-    stats.innerHTML=`<div><strong>Nested excavation</strong><span>compact machine in the cut</span></div><div><strong>Upper casing removal</strong><span>shaft heads exposed</span></div><div><strong data-latest-commit-date>Checking…</strong><span><a href="https://github.com/ksudarsh/helix3-construction/commits/main">latest commit</a></span></div>`;
+    stats.innerHTML=`<div><strong data-latest-field-date>—</strong><span>latest field update</span></div><div><strong>Upper casing removal</strong><span>shaft heads exposed</span></div><div><strong data-latest-commit-date>Checking…</strong><span><a href="https://github.com/ksudarsh/helix3-construction/commits/main">latest commit</a></span></div>`;
     heroInner.appendChild(stats);
     const latestCommitDate=stats.querySelector('[data-latest-commit-date]');
     fetch('https://api.github.com/repos/ksudarsh/helix3-construction/commits/main',{
@@ -25,8 +25,55 @@
     }).catch(()=>{latestCommitDate.textContent='See GitHub';});
   }
 
+  // The dated update sections are the source for every "latest field update" label.
+  // A new update only needs its own data-update-date; historical dates stay historical.
+  const parseUpdateDate=value=>{
+    if(!/^\d{4}-\d{2}-\d{2}$/.test(value||''))return null;
+    const date=new Date(`${value}T12:00:00Z`);
+    return !Number.isNaN(date.getTime())&&date.toISOString().slice(0,10)===value?date:null;
+  };
+  const fullDate=new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
+  const monthDay=new Intl.DateTimeFormat('en-US',{month:'long',day:'numeric',timeZone:'UTC'});
+  const shortDate=new Intl.DateTimeFormat('en-US',{month:'short',day:'numeric',timeZone:'UTC'});
+  const updates=[...document.querySelectorAll('section[data-update-date]')]
+    .map(section=>({section,date:parseUpdateDate(section.dataset.updateDate)}))
+    .filter(update=>update.date)
+    .sort((a,b)=>b.date-a.date);
+  updates.forEach(({section,date})=>{
+    const start=parseUpdateDate(section.dataset.updateStartDate);
+    let label=fullDate.format(date);
+    if(start&&start<date){
+      label=start.getUTCFullYear()===date.getUTCFullYear()&&start.getUTCMonth()===date.getUTCMonth()
+        ?`${monthDay.format(start)}–${date.getUTCDate()}, ${date.getUTCFullYear()}`
+        :`${fullDate.format(start)}–${label}`;
+    }
+    const eyebrow=section.querySelector('.eyebrow');
+    if(eyebrow)eyebrow.textContent=`Field update · ${label}`;
+  });
+  if(updates.length){
+    const {section,date}=updates[0];
+    const alias=document.createElement('span');
+    alias.id='latest';
+    alias.className='latest-anchor';
+    alias.setAttribute('aria-hidden','true');
+    section.before(alias);
+    const latestLink=document.querySelector('.nav a[href="#latest"]');
+    if(latestLink){
+      latestLink.textContent=`Latest · ${shortDate.format(date)}`;
+      latestLink.setAttribute('aria-label',`Latest field update: ${fullDate.format(date)}`);
+    }
+    const heroDate=document.querySelector('[data-latest-field-date]');
+    if(heroDate)heroDate.textContent=shortDate.format(date)+', '+date.getUTCFullYear();
+    const footerDate=document.querySelector('footer [data-latest-field-date]');
+    if(footerDate){
+      footerDate.dateTime=section.dataset.updateDate;
+      footerDate.textContent=fullDate.format(date);
+    }
+  }
+
   const fixStyle=document.createElement('style');
   fixStyle.textContent=`
+    .latest-anchor{display:block;height:0;scroll-margin-top:76px}
     .process>.step{padding-top:24px!important}
     .process>.step:before{position:static!important;display:grid!important;margin:0 0 18px 0!important;width:36px!important;height:36px!important}
     .process>.step h3{margin-top:0!important}

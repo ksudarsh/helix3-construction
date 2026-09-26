@@ -139,7 +139,7 @@ window.HELIX_PHOTOS=[
   },
   {
     "file": "IMG_BEFEA782-DDCF-4B8D-A420-5A63D520821D.jpeg",
-    "title": "Latest site overview",
+    "title": "Site overview",
     "caption": "Mass excavation around completed shafts makes the foundation pattern increasingly legible.",
     "annotated": true
   },

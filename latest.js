@@ -2,8 +2,9 @@
   const section=document.createElement('section');
   section.id='update-sept11';
   section.className='section';
+  section.dataset.updateDate='2026-09-11';
   section.innerHTML=`<div class="wrap">
-    <div class="eyebrow">Field update · September 11, 2026</div>
+    <div class="eyebrow">Field update</div>
     <h2>Excavation has a supply chain.</h2>
     <p class="lede">The long line of dump trucks makes the earthmoving operation visible beyond the excavation itself. New morning photographs show a CAT 330D loading soil into a truck, while more trucks wait along the site boundary.</p>
     <div class="haulage-layout">

@@ -1,10 +1,12 @@
 (()=>{
   const section=document.createElement('section');
-  section.id='latest';section.className='section';
+  section.id='update-sept16';section.className='section';
+  section.dataset.updateDate='2026-09-16';
+  section.dataset.updateStartDate='2026-09-15';
   section.innerHTML=`<div class="wrap">
-    <div class="eyebrow">Field update · September 15–16, 2026</div>
+    <div class="eyebrow">Field update</div>
     <h2>From temporary casing<br>to exposed shaft head.</h2>
-    <p class="lede">The latest observations complete a construction story that began with casing installation weeks ago. As excavation deepens, upper steel casing is cut away in sections, moved aside and flattened for recycling. What remains is the concrete drilled-shaft head with projecting reinforcement, ready for the next structural connection.</p>
+    <p class="lede">The September 15–16 observations complete a construction story that began with casing installation weeks ago. As excavation deepens, upper steel casing is cut away in sections, moved aside and flattened for recycling. What remains is the concrete drilled-shaft head with projecting reinforcement, ready for the next structural connection.</p>
     <div class="cutting-grid">
       <figure><img loading="lazy" src="images/annotated/IMG_6266.svg" alt="Annotated September 15 photo locating cutting sparks, remaining steel casing, exposed concrete and perimeter shoring"><figcaption>September 15 supplied the missing evidence: active cutting at the exposed casing.<br><a class="photo-original" href="images/originals/IMG_6266.JPG" target="_blank" rel="noopener">Inspect original photograph</a></figcaption></figure>
       <div class="haulage-copy">
