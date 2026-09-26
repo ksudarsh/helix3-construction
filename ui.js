@@ -83,13 +83,10 @@
   updateProgress();
 
   const sections=[...document.querySelectorAll('.section')];
-  sections.forEach(s=>s.classList.add('reveal'));
-  if('IntersectionObserver' in window){
-    const observer=new IntersectionObserver(entries=>entries.forEach(e=>{
-      if(e.isIntersecting){e.target.classList.add('is-visible');observer.unobserve(e.target);}
-    }),{threshold:.08,rootMargin:'0px 0px -40px'});
-    sections.forEach(s=>observer.observe(s));
-  }else sections.forEach(s=>s.classList.add('is-visible'));
+  // Primary content must not depend on a viewport-percentage reveal threshold.
+  // The photo journal is taller than the viewport, so some Chromium browsers
+  // can never report the old 8% threshold and leave the section transparent.
+  sections.forEach(s=>s.classList.add('is-visible'));
 
   const navLinks=[...document.querySelectorAll('.nav a[href^="#"]')];
   const targetMap=new Map(navLinks.map(a=>[a.getAttribute('href').slice(1),a]));
