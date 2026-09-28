@@ -192,3 +192,10 @@ This is an educational visual interpretation, not project design documentation o
 - The section eyebrow begins as `Field update`. At page load, `ui.js` formats all dated eyebrows and selects the newest update by ISO date. It places the `#latest` anchor there and fills the hero's latest-field-update date, the navigation label and the footer date. Do not hand-edit those repeated dates or point `#latest` at an older section.
 - The hero's separate latest-commit date comes from GitHub and describes repository activity, which may be later than the newest field observation. Keep those labels distinct.
 - When adding an update, give it a unique section ID and its own ISO date; add the script before `ui.js` in `index.html`, then bump cache versions for changed scripts. Check that the latest navigation link lands on the new section and the footer matches its observation date.
+
+## 18. September 28 refueling confirmation
+- `IMG_0067.jpeg` supplies the visual evidence missing from the September 24 wide view: a service hose is clearly routed from the red truck to the Volvo excavator while a worker attends the machine.
+- The site observer directly identifies the operation as the routine morning refueling. The photograph plus that firsthand report support describing the operation as confirmed.
+- Keep the evidentiary limit explicit: the still photograph alone does not identify the liquid, quantify the transfer or establish total site fuel consumption.
+- `september28.js` contains the dedicated field update. The image also appears in the gallery and Site Evolution, and the September 24 passage now records how later evidence resolved its earlier uncertainty.
+- Hash, dimensions and the evidence note are recorded in `records/2026-09-28-closeout.md` and `records/2026-09-28-photos.json`.

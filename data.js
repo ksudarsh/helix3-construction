@@ -511,5 +511,12 @@ window.HELIX_PHOTOS=[
     "title": "September 25 — Fine excavation around the shaft heads",
     "caption": "Observed: the compact CAT works in standing water beside exposed drilled-shaft heads while a large CAT remains above. Workers and the orange ladder make the scale legible. The observer reports continued removal of exposed steel tubing; deeper retained casing is not visible or resolved.",
     "annotated": false
+  },
+  {
+    "file": "IMG_0067.jpeg",
+    "date": "2026-09-28",
+    "title": "September 28 — Refueling the Volvo excavator",
+    "caption": "Observed: a hose runs from the red service truck to the Volvo excavator, and a worker is positioned at the excavator's service/fill area. Together with the site observer's direct report, this confirms the morning refueling operation. The image does not independently identify the liquid or measure the quantity transferred.",
+    "annotated": false
   }
 ];
