@@ -518,5 +518,12 @@ window.HELIX_PHOTOS=[
     "title": "September 28 — Refueling the Volvo excavator",
     "caption": "Observed: a hose runs from the red service truck to the Volvo excavator, and a worker is positioned at the excavator's service/fill area. Together with the site observer's direct report, this confirms the morning refueling operation. The image does not independently identify the liquid or measure the quantity transferred.",
     "annotated": false
+  },
+  {
+    "file": "IMG_0068.jpeg",
+    "date": "2026-09-28",
+    "title": "September 28 — Cutting continues at another casing",
+    "caption": "The observer marked a worker and bright glow at an exposed steel casing and reports active torch cutting. The distant still does not resolve individual sparks or the completed cut. The operation exposes the concrete drilled-shaft head for future foundation connection; it is not yet a building column. The red circle is present in the supplied photograph.",
+    "annotated": false
   }
 ];

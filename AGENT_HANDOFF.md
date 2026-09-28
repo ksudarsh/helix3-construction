@@ -199,3 +199,4 @@ This is an educational visual interpretation, not project design documentation o
 - Keep the evidentiary limit explicit: the still photograph alone does not identify the liquid, quantify the transfer or establish total site fuel consumption.
 - `september28.js` contains the dedicated field update. The image also appears in the gallery and Site Evolution, and the September 24 passage now records how later evidence resolved its earlier uncertainty.
 - Hash, dimensions and the evidence note are recorded in `records/2026-09-28-closeout.md` and `records/2026-09-28-photos.json`.
+- `IMG_0068.jpeg` adds a distinct, observer-marked view of torch cutting at another casing on September 28. The visible bright glow supports the report, but individual sparks and the finished cut are not resolved in the distant still. The red circle is embedded in the supplied JPEG. This is another drilled-shaft head, not yet a building column.
