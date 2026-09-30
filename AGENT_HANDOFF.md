@@ -200,3 +200,8 @@ This is an educational visual interpretation, not project design documentation o
 - `september28.js` contains the dedicated field update. The image also appears in the gallery and Site Evolution, and the September 24 passage now records how later evidence resolved its earlier uncertainty.
 - Hash, dimensions and the evidence note are recorded in `records/2026-09-28-closeout.md` and `records/2026-09-28-photos.json`.
 - `IMG_0068.jpeg` adds a distinct, observer-marked view of torch cutting at another casing on September 28. The visible bright glow supports the report, but individual sparks and the finished cut are not resolved in the distant still. The red circle is embedded in the supplied JPEG. This is another drilled-shaft head, not yet a building column.
+
+## 19. September 30 photo submission
+- Four JPEGs, `IMG_0073.jpeg`–`IMG_0076.jpeg`, are preserved unchanged in `images/originals/`. Their capture time is unavailable, so the site labels September 30 as the submission date. Hashes and editorial selection are in `records/2026-09-30-photos.json` and the closeout note.
+- Three distinct views are displayed: `IMG_0076` wide site progress and Site Evolution; `IMG_0075` Volvo loading angular spoil into a dump truck; `IMG_0074` compact and large excavators at separate levels around exposed drilled-shaft heads. `IMG_0073` overlaps the latter and stays archived only.
+- The new field section is `september30.js`, with `data-update-date` for the programmatic latest label. Avoid inferring exact geology, depth or a second compact-machine lowering from these stills.

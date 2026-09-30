@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-30",
+  "date_basis": "chat submission date; supplied JPEGs do not expose a reliable capture date",
+  "selected": [
+    {"file":"IMG_0076.jpeg","sha256":"54c782926112c5e1a831231ec9dac2ee4c2f6a790e7d20d36cc92b472f685a4e","width":864,"height":1536,"role":"wide progress and timeline view"},
+    {"file":"IMG_0075.jpeg","sha256":"c95f9a50bde0ad48685910eca29de536f85d02ef6e81ab1c2bc04947c8365b3b","width":1536,"height":864,"role":"direct view of Volvo loading angular spoil into a truck"},
+    {"file":"IMG_0074.jpeg","sha256":"5e3ebca65afbd5c76f8e9e1bf80489b322216c2d9a63ecbb34ca3832a9a53db5","width":1536,"height":864,"role":"lower pocket, shaft heads, workers and machines at two levels"}
+  ],
+  "archived_not_displayed": [
+    {"file":"IMG_0073.jpeg","sha256":"40722200594f850c3848a560aee0acb8bed971220e3415fa9dc467a324327692","width":864,"height":1536,"reason":"overlapping view of the same lower-pocket operation shown more clearly in IMG_0074.jpeg"}
+  ]
+}

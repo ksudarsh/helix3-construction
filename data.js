@@ -525,5 +525,26 @@ window.HELIX_PHOTOS=[
     "title": "September 28 — Cutting continues at another casing",
     "caption": "The observer marked a worker and bright glow at an exposed steel casing and reports active torch cutting. The distant still does not resolve individual sparks or the completed cut. The operation exposes the concrete drilled-shaft head for future foundation connection; it is not yet a building column. The red circle is present in the supplied photograph.",
     "annotated": false
+  },
+  {
+    "file": "IMG_0076.jpeg",
+    "date": "2026-09-30",
+    "title": "September 30 — Excavation across the full footprint",
+    "caption": "The new wide view shows several excavators working at different levels, an angular rock-rich stockpile, red haul trucks and many exposed drilled-shaft heads. A localized lower pocket remains wet. The photograph establishes visible progress, but not a measured depth or the geological identity of the material.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0075.jpeg",
+    "date": "2026-09-30",
+    "title": "September 30 — Loading angular spoil",
+    "caption": "A Volvo excavator loads angular rock-rich excavated material into a red dump truck while another truck waits along the site boundary. This is a distinct loading view, not a count of total loads or evidence that the material is intact bedrock.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0074.jpeg",
+    "date": "2026-09-30",
+    "title": "September 30 — Working around the shaft heads",
+    "caption": "At a lower, wet working level, a compact excavator and crew occupy the gaps among exposed drilled-shaft heads and projecting reinforcement. A much larger CAT works from the higher bench. The still does not establish the purpose of the large machine's suspended attachment or any new lifting operation.",
+    "annotated": false
   }
 ];
