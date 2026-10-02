@@ -548,3 +548,48 @@ window.HELIX_PHOTOS=[
     "annotated": false
   }
 ];
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "2026-10-02-vacuum-truck.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — Vacuum truck at the wet excavation",
+    "caption": "October 2 — A vacuum/jetting truck extends its suction hose into the excavation beside drilled shafts. The observer saw sludge collected in its stainless-steel tank, then discharged into a hole on the west side, and reports intense noise only during operation. This is not a concrete truck.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0092.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — Black fabric beneath crushed stone",
+    "caption": "October 2 — Close view of crushed stone being spread over black sheeting on the east side, closest to the observer. A geotextile separation layer is likely; product type and final use remain unconfirmed.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0098.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — Crushed-stone delivery",
+    "caption": "October 2 — A red dump truck tips gray crushed stone onto the prepared area. The nearby black sheeting links delivery with the ground-preparation sequence.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0102.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — Grading and rolling on the east side",
+    "caption": "October 2 — Wide view of the roller, leveled ground and crushed-stone placement closest to the observer, with excavation continuing around exposed drilled-shaft heads farther inside.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0105.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — Water spraying around shaft heads",
+    "caption": "October 2 — A worker directs a visible stream of water beside projecting shaft reinforcement. Hoses, workers, ladders and a compact excavator occupy the wet lower excavation. The exact cleaning or excavation task is not confirmed.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0103.jpeg",
+    "date": "2026-10-02",
+    "title": "October 2 — October 2 site overview",
+    "caption": "October 2 — The repeated wide viewpoint records the exposed shaft field, machines at different working levels and the newly prepared stone area in the foreground.",
+    "annotated": false
+  }
+]);

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-02",
+  "date_basis": "Observer report of today's operations; photo timestamps not verified",
+  "selected": [
+    {
+      "source": "FullSizeRender(2).jpeg",
+      "file": "2026-10-02-vacuum-truck.jpeg",
+      "role": "Vacuum truck at the wet excavation",
+      "git_blob_sha": "efe4fee7bdfc2222e60f91754d09936cefd7758f"
+    },
+    {
+      "source": "IMG_0092.jpeg",
+      "file": "IMG_0092.jpeg",
+      "role": "Black fabric beneath crushed stone",
+      "git_blob_sha": "8395a066362be8d969cce6a844525b3eb5e7e976"
+    },
+    {
+      "source": "IMG_0098.jpeg",
+      "file": "IMG_0098.jpeg",
+      "role": "Crushed-stone delivery",
+      "git_blob_sha": "e9df54b5bae72e2cb734be1e810a87b39fb343fa"
+    },
+    {
+      "source": "IMG_0102.jpeg",
+      "file": "IMG_0102.jpeg",
+      "role": "Grading and rolling on the east side",
+      "git_blob_sha": "1b8d0382a0a2e1e599e330573c022a70fb2c89db"
+    },
+    {
+      "source": "IMG_0105.jpeg",
+      "file": "IMG_0105.jpeg",
+      "role": "Water spraying around shaft heads",
+      "git_blob_sha": "8c77c370583e4653c30e8da6ec79f6c2a93bfd6d"
+    },
+    {
+      "source": "IMG_0103.jpeg",
+      "file": "IMG_0103.jpeg",
+      "role": "October 2 site overview",
+      "git_blob_sha": "cbe98189a580ff2e092d44c3838f4897c1cbfc52"
+    }
+  ],
+  "not_published": "Other overlapping photos and both video files."
+}

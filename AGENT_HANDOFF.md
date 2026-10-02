@@ -205,3 +205,11 @@ This is an educational visual interpretation, not project design documentation o
 - Four JPEGs, `IMG_0073.jpeg`–`IMG_0076.jpeg`, are preserved unchanged in `images/originals/`. Their capture time is unavailable, so the site labels September 30 as the submission date. Hashes and editorial selection are in `records/2026-09-30-photos.json` and the closeout note.
 - Three distinct views are displayed: `IMG_0076` wide site progress and Site Evolution; `IMG_0075` Volvo loading angular spoil into a dump truck; `IMG_0074` compact and large excavators at separate levels around exposed drilled-shaft heads. `IMG_0073` overlaps the latter and stays archived only.
 - The new field section is `september30.js`, with `data-update-date` for the programmatic latest label. Avoid inferring exact geology, depth or a second compact-machine lowering from these stills.
+
+## 20. October 2 vacuum truck and east-side surface preparation
+- Six selected unchanged JPEGs published; see records/2026-10-02-photos.json and closeout note.
+- Correct earlier chat misidentification: white tank truck is a vacuum/jetting truck with suction hose, not a concrete mixer/chute.
+- Observer directly saw sludge collected in the stainless-steel tank, then discharged into a hole on the west side; intense noise only during operation. The hole's purpose and treatment are unknown.
+- East side closest to observer: leveling, black sheeting, crushed stone spreading and rolling. Geotextile-separated working/access pad is Likely, not confirmed waterproofing.
+- Close view IMG_0105 shows water spraying around shaft reinforcement; exact purpose unknown.
+- october2.js supplies the dated field update. Gallery and Site Evolution updated; mobile styling preserved. Videos were not published.
