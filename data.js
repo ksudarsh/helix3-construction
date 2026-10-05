@@ -561,7 +561,7 @@ window.HELIX_PHOTOS.push(...[
     "file": "IMG_0092.jpeg",
     "date": "2026-10-02",
     "title": "October 2 — Black fabric beneath crushed stone",
-    "caption": "October 2 — Close view of crushed stone being spread over black sheeting on the east side, closest to the observer. A geotextile separation layer is likely; product type and final use remain unconfirmed.",
+    "caption": "October 2 — Close view of crushed stone being spread over black sheeting on the east side, closest to the observer. On October 5 the observer confirmed that this sheet-and-rolled-gravel surface became the base for the mobile site office. The sheet product type remains unknown.",
     "annotated": false
   },
   {
@@ -591,5 +591,25 @@ window.HELIX_PHOTOS.push(...[
     "title": "October 2 — October 2 site overview",
     "caption": "October 2 — The repeated wide viewpoint records the exposed shaft field, machines at different working levels and the newly prepared stone area in the foreground.",
     "annotated": false
+  }
+]);
+
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0120.jpeg",
+    "date": "2026-10-05",
+    "title": "October 5 \u2014 Crane, excavation and the new eastern site office",
+    "caption": "The mobile crane, exposed shaft heads, reinforcement, retaining walls and new eastern site office are labeled. The observer confirms the office was placed on the plastic sheet and rolled gravel prepared earlier. The deep excavation edge provides a visual reference for separation, but does not establish a measured distance or final facade line.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0120.svg"
+  },
+  {
+    "file": "IMG_0128.jpeg",
+    "date": "2026-10-05",
+    "title": "October 5 \u2014 The office base and near excavation edge",
+    "caption": "The mobile crane, exposed shaft heads, reinforcement, retaining walls and new eastern site office are labeled. The observer confirms the office was placed on the plastic sheet and rolled gravel prepared earlier. The deep excavation edge provides a visual reference for separation, but does not establish a measured distance or final facade line.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0128.svg"
   }
 ]);

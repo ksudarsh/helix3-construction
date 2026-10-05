@@ -20,7 +20,8 @@ const stages=[
 {file:'../web/IMG_0065.jpg',stage:'September 25, 2026',title:'The compact machine enters the deeper cut',text:'A large excavator lowered a compact CAT into the confined pocket for finer excavation and cleanup around exposed shaft heads. Workers and the orange ladder show the striking scale difference while upper-casing removal continues.'},
 {file:'../originals/IMG_0067.jpeg',stage:'September 28, 2026',title:'The morning refueling operation is confirmed',text:'A hose visibly connects the red service truck to the Volvo excavator while a worker attends the machine. Combined with the observer\'s direct account, this closes the earlier uncertainty about the morning servicing operation.'},
 {file:'../originals/IMG_0076.jpeg',stage:'September 30, 2026',title:'Excavation advances across several levels',text:'A wide view reveals more of the drilled-shaft field and a wet lower pocket, while excavators work an angular rock-rich pile and trucks serve the boundary. A closer view shows the Volvo loading a truck.'},
-{"file":"../originals/IMG_0103.jpeg","stage":"October 2, 2026","title":"Wet excavation and surface preparation advance together","text":"A vacuum truck handles sludge in the lower excavation while black fabric, crushed stone and rolling prepare the east-side surface. The observer reports sludge collected in the truck tank and discharged into a western hole; the receiving hole's purpose remains unknown."}
+{"file":"../originals/IMG_0103.jpeg","stage":"October 2, 2026","title":"Wet excavation and surface preparation advance together","text":"A vacuum truck handles sludge in the lower excavation while black fabric, crushed stone and rolling prepare the east-side surface. The observer reports sludge collected in the truck tank and discharged into a western hole; the receiving hole's purpose remains unknown."} ,
+{"file": "../originals/IMG_0120.jpeg", "stage": "October 5, 2026", "title": "A crane arrives and the eastern office is established", "text": "A mobile crane is set up alongside the excavation and the new mobile site office occupies the eastern end nearest the observer. The October 2 sheet-and-rolled-gravel area is confirmed as its base. Exposed shafts and excavation boundaries make the footprint more legible; the final facade line and distance remain unmeasured."}
 ];
 const section=document.createElement('section');
 section.id='history';
@@ -38,3 +39,4 @@ section.querySelectorAll('img').forEach(img=>img.addEventListener('click',()=>{
  const target=lb.querySelector('img'); target.src=img.src; target.alt=img.alt; lb.classList.add('open');
 }));
 })();
+
