@@ -613,3 +613,50 @@ window.HELIX_PHOTOS.push(...[
     "annotation": "images/annotated/IMG_0128.svg"
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0140.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — Lowboy transport from above",
+    "caption": "Folded boom, low central deck, tractor and multiple rear axles reveal the heavy-haul arrangement.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0140.svg"
+  },
+  {
+    "file": "IMG_0139.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — The giant CAT on its lowboy",
+    "caption": "The loaded tracked excavator stands alongside the site boundary before departure.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0138.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — Aggregate and exposed foundations",
+    "caption": "Portrait site context. The observer reports aggregate placement in the lowest excavation; crane, shaft heads and eastern office remain visible.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0136.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — The lowest excavation and the office pad",
+    "caption": "Numbered overview locates the lower pocket, shaft heads, crane, foreground aggregate and eastern office. The observer confirms aggregate is being placed in the lowest cuts; exact coverage and final layer function remain unknown.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0136.svg"
+  },
+  {
+    "file": "IMG_0134.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — The heavy haul reaches the intersection",
+    "caption": "The tractor and lowboy carry the giant CAT through the narrow street.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0133.jpeg",
+    "date": "2026-10-06",
+    "title": "October 6 — An evening departure",
+    "caption": "The CAT excavator and haul vehicle are farther along the street in this evening view. The observer confirms the machine left the site.",
+    "annotated": false
+  }
+]);

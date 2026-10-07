@@ -213,3 +213,11 @@ This is an educational visual interpretation, not project design documentation o
 - East side closest to observer: leveling, black sheeting, crushed stone spreading and rolling. Geotextile-separated working/access pad is Likely, not confirmed waterproofing.
 - Close view IMG_0105 shows water spraying around shaft reinforcement; exact purpose unknown.
 - october2.js supplies the dated field update. Gallery and Site Evolution updated; mobile styling preserved. Videos were not published.
+
+## 21. October 5 and 6 continuation
+- October 5: crane setup, eastern site office, observer-confirmed sheet-and-rolled-gravel office base, and approximate excavation extent are documented in october5.js. No measured facade distance.
+- October 6: all six unchanged JPEGs IMG_0133, 0134, 0136, 0138, 0139 and 0140 archived and displayed. October 6 is the observer's local submission date; no capture metadata available.
+- The giant CAT is a tracked hydraulic excavator, not a bulldozer. Observer confirms it departed. Loaded lowboy, folded boom, low central deck, tractor and rear axle group are visible. Loading itself, detachable-gooseneck operation, model, weight and completion of all excavation are not established.
+- Observer directly reports aggregate placement in the lowest excavation. Keep that separate from the foreground office pad. Dark wet surfaces cannot all be classified as aggregate from the distant views. Firmer base / drainage are general interpretations, not confirmed layer specifications or a final cap/mat design.
+- october6.js provides the dated update before october5.js's section and before ui.js initializes dates. Gallery, overview and Site Evolution updated. Two numbered SVG overlays reference unchanged originals.
+- records/2026-10-06-photos.json preserves hashes, dimensions and date basis.

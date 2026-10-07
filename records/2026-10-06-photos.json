@@ -1,0 +1,56 @@
+[
+  {
+    "file": "IMG_0140.jpeg",
+    "sha256": "2922d5ca47b8c10a367dca85231337754a0a89be925242890027ab3a95f1734f",
+    "dimensions": [
+      1536,
+      864
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  },
+  {
+    "file": "IMG_0139.jpeg",
+    "sha256": "66ac4f9f2b9646849fba98739a39768933bef6e66f312e0e4558d496b5877616",
+    "dimensions": [
+      864,
+      1536
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  },
+  {
+    "file": "IMG_0138.jpeg",
+    "sha256": "d0dd884ece55341b1221144d0a09edf6baabd9d74223f2be4ee96a63f2eb13fe",
+    "dimensions": [
+      864,
+      1536
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  },
+  {
+    "file": "IMG_0136.jpeg",
+    "sha256": "b782d365495db786bcf1eb5f1af4e8566b7b74d9a19a0783d4f9e5fd700dfe94",
+    "dimensions": [
+      1536,
+      864
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  },
+  {
+    "file": "IMG_0134.jpeg",
+    "sha256": "69b2cfffc259c2c5b4aad0637272f8f1d9e54876572e569caddb1e27bb931a67",
+    "dimensions": [
+      1536,
+      864
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  },
+  {
+    "file": "IMG_0133.jpeg",
+    "sha256": "90ebde223c6d7650f247e12ac63f7ce1984c0ed718f76ee638780d55bf4fa9c0",
+    "dimensions": [
+      864,
+      1536
+    ],
+    "date_basis": "Observer supplied as today on October 6, 2026, America/New_York; capture timestamp unavailable; unchanged original"
+  }
+]
