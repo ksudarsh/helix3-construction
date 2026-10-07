@@ -660,3 +660,38 @@ window.HELIX_PHOTOS.push(...[
     "annotated": false
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0142.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Two excavation levels",
+    "caption": "The observer identifies a smaller square excavation within a larger deep excavation. Ladders show the change in level; the numbered locations are guides, not surveyed outlines.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0142.svg"
+  },
+  {
+    "file": "IMG_0143.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Mixer truck and concrete bucket",
+    "caption": "The mixer has arrived. The white funnel-shaped item appears to be a crane concrete bucket. The observer reports it will be filled and lifted to deliver concrete into the deeper square; this frame shows preparation, not a completed pour.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0143.svg"
+  },
+  {
+    "file": "IMG_0144.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Breaking back a drilled-shaft head",
+    "caption": "The observer reports jackhammer trimming on the north-east side of the larger, shallower square. The compact excavator works beside exposed concrete and reinforcement; these are drilled-shaft heads, not finished building columns.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0144.svg"
+  },
+  {
+    "file": "IMG_0145.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Close overview of the nested cut",
+    "caption": "This closer view complements the full-site overview: the inner pocket, surrounding working level, access ladder and compact excavator remain visible. The purpose and exact depths of the two squares are unknown.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0145.svg"
+  }
+]);
