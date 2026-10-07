@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="880" viewBox="0 0 1400 880" role="img" aria-labelledby="title description">
+  <title id="title">HELIX H-3 October 7 excavation plan and New Brunswick street context</title>
+  <desc id="description">Schematic north-up map placing H-3 between Kirkpatrick and Spring Streets near Paterson Street. A larger detail shows the concrete-covered deepest pit, the higher unpoured bench, the small excavator to the northeast, an isolated shaft head within the new concrete, and the southeast access position reported by the observer. Not a survey.</desc>
+  <defs>
+    <pattern id="earth" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#dfaa75"/><circle cx="3" cy="5" r="1.5" fill="#c4834e" opacity=".48"/><circle cx="12" cy="13" r="1" fill="#c4834e" opacity=".5"/></pattern>
+    <pattern id="concrete" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#aab5b6"/><path d="M0 12L12 0" stroke="#ced7d4" opacity=".4"/></pattern>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M1 9L5 1 9 9" fill="none" stroke="#112e3e" stroke-width="2"/></marker>
+  </defs>
+  <rect width="1400" height="880" fill="#f4f1ea"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#142f3d">
+    <text x="54" y="63" font-size="40" font-weight="800">HELIX H-3 · site plan</text>
+    <text x="55" y="99" font-size="19" fill="#58717a">October 7, 2026 · schematic, north up · feature locations approximate</text>
+    <text x="81" y="156" font-size="23" font-weight="800">NEW BRUNSWICK CONTEXT</text>
+    <text x="687" y="156" font-size="23" font-weight="800">EXCAVATION DETAIL</text>
+  </g>
+  <g stroke="#c9d2d1" stroke-width="2">
+    <rect x="56" y="176" width="550" height="578" rx="22" fill="#e6e6dd"/>
+    <rect x="652" y="176" width="692" height="578" rx="22" fill="#fffdf8"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#304e5b">
+    <path d="M125 215V690M528 215V690" stroke="#fff" stroke-width="64"/>
+    <path d="M141 671H507" stroke="#fff" stroke-width="62"/>
+    <path d="M141 245H507" stroke="#fff" stroke-width="54"/>
+    <text x="110" y="616" transform="rotate(-90 110 616)" font-size="20" font-weight="700">KIRKPATRICK STREET</text>
+    <text x="513" y="550" transform="rotate(-90 513 550)" font-size="20" font-weight="700">SPRING STREET</text>
+    <text x="231" y="689" font-size="20" font-weight="700">PATERSON STREET</text>
+    <text x="258" y="244" font-size="18" font-weight="700">FRENCH STREET</text>
+    <rect x="170" y="284" width="311" height="210" rx="12" fill="#c9d8d4" stroke="#8ba7a6"/>
+    <text x="226" y="378" font-size="31" font-weight="800">H-1 / H-2</text>
+    <text x="221" y="414" font-size="18">French Street phases</text>
+    <rect x="170" y="506" width="311" height="133" rx="13" fill="#dba472" stroke="#a66839" stroke-width="3"/>
+    <text x="274" y="566" font-size="37" font-weight="800">H-3</text>
+    <text x="200" y="598" font-size="18">photo location · Paterson St parcels</text>
+    <path d="M366 570H641" fill="none" stroke="#bb7141" stroke-width="4" stroke-dasharray="9 8" marker-end="url(#arrow)"/>
+  </g>
+  <g>
+    <rect x="690" y="215" width="616" height="485" rx="15" fill="url(#earth)" stroke="#ad7044" stroke-width="4"/>
+    <rect x="740" y="258" width="524" height="389" rx="8" fill="#c58f5e" stroke="#996038" stroke-width="4"/>
+    <path d="M778 302H1107V557H778Z" fill="url(#concrete)" stroke="#66868a" stroke-width="5"/>
+    <path d="M1107 302H1195V557H1107Z" fill="#d5a06c" opacity=".95"/>
+    <circle cx="870" cy="389" r="30" fill="#767f80" stroke="#374e55" stroke-width="5"/>
+    <circle cx="994" cy="483" r="28" fill="#737d7f" stroke="#374e55" stroke-width="5"/>
+    <g stroke="#985c38" stroke-width="5"><path d="M852 389v-37m15 37v-43m19 42v-37M978 484v-39m16 39v-47m17 45v-39"/></g>
+    <rect x="1125" y="317" width="63" height="52" rx="11" fill="#eecb4c" stroke="#394b4f" stroke-width="4"/>
+    <path d="M1150 355L1115 395" stroke="#394b4f" stroke-width="12" stroke-linecap="round"/>
+    <path d="M1115 395l-13 36" stroke="#394b4f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1095 550l30 36" stroke="#6a5041" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1104 552l31 36m-18-24l-15 2m23 8l-15 2" stroke="#faf1de" stroke-width="4"/>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#163442">
+    <path d="M900 299l-35-42" stroke="#163442" stroke-width="2"/>
+    <rect x="753" y="236" width="252" height="44" rx="18" fill="#163442"/>
+    <text x="770" y="265" font-size="19" font-weight="800" fill="white">DEEPEST INNER PIT</text>
+    <text x="785" y="525" font-size="23" font-weight="800">fresh concrete</text>
+    <text x="866" y="370" font-size="15" font-weight="800">SHAFT</text>
+    <path d="M1209 330l-13 10" stroke="#163442" stroke-width="2"/>
+    <rect x="994" y="223" width="269" height="56" rx="15" fill="#fffdf8" stroke="#c4814e" stroke-width="2"/>
+    <text x="1008" y="246" font-size="17" font-weight="800">SMALL EXCAVATOR</text>
+    <text x="1008" y="267" font-size="15">higher NE bench · shaft top work</text>
+    <text x="1126" y="493" font-size="16" font-weight="700">UNPOURED</text>
+    <text x="1128" y="516" font-size="16" font-weight="700">BENCH</text>
+    <path d="M1144 575l29 32" stroke="#163442" stroke-width="2"/>
+    <rect x="1027" y="603" width="224" height="45" rx="15" fill="#fffdf8" stroke="#c4814e" stroke-width="2"/>
+    <text x="1045" y="632" font-size="18" font-weight="700">SE access / ladder*</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#435d67">
+    <text x="70" y="798" font-size="19">Context street positions follow published H-3 site descriptions.</text>
+    <text x="70" y="827" font-size="19">Pit geometry and feature positions are interpreted from the photographs.</text>
+    <text x="70" y="856" font-size="17">* Southeast ladder / climbing location is the observer's identification; exact plan position is not survey verified.</text>
+  </g>
+  <g transform="translate(1290 102)" font-family="Arial,Helvetica,sans-serif" fill="#143546" text-anchor="middle"><path d="M0 46V-12" stroke="#143546" stroke-width="5" marker-end="url(#arrow)"/><text y="71" font-size="22" font-weight="800">N</text></g>
+</svg>

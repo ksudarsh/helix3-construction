@@ -755,3 +755,52 @@ window.HELIX_PHOTOS.push(...[
     "annotated": false
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_6275.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Whole site: new concrete in deepest square",
+    "caption": "Wide view of the inner square newly covered in concrete, with the compact excavator working on higher ground.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6275.svg"
+  },
+  {
+    "file": "IMG_6276.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Workers finish the concrete surface",
+    "caption": "Close view of workers leveling the new concrete with long handled tools, including the blue handle, beside a reinforced shaft head.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6276.svg"
+  },
+  {
+    "file": "IMG_6278.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Alternate zoom of the new surface and access",
+    "caption": "The concrete surrounds an isolated drilled-shaft head. The observer identifies a worker climbing out and the southeast access ladder.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6278.svg"
+  },
+  {
+    "file": "IMG_6277.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Compact excavator on the higher bench",
+    "caption": "The excavator remains beside an exposed shaft head on the unpoured higher east/northeast bench; breaker use is observer reported.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_6277.svg"
+  },
+  {
+    "file": "IMG_6274.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Wider finishing view",
+    "caption": "The finishing crew, blue handled tool and multiple projecting shaft reinforcements are visible together.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_6279.JPG",
+    "date": "2026-10-07",
+    "title": "October 7 — Complementary side view of the pit",
+    "caption": "Fresh concrete continues behind the crane, with exposed shaft heads on the surrounding ground.",
+    "annotated": false
+  }
+]);

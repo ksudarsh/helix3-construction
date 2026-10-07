@@ -236,3 +236,9 @@ This is an educational visual interpretation, not project design documentation o
 - Final October 6 publication commit: `8bd0554d7d9072ee0029cee34781b1933dacc4e6`; its Pages deployment succeeded. Both annotated images visibly rendered; originals, expandable portrait view and enlargement/close behavior were checked live.
 - Local Playwright lacked a browser binary and its download failed; CairoSVG was absent. Live CUA browser verification succeeded. Do not repeat installation attempts by default.
 - `docs/PHOTO_UPDATE_WORKFLOW.md` is the detailed runbook; `scripts/photo_payload.py` is the transfer helper. Keep future handoffs short and point to these instead of rediscovering the workflow.
+
+## 23. October 7 later Canon views: inner-square concrete
+- Six unchanged Canon originals IMG_6274.JPG–IMG_6279.JPG were added to the October 7 journal and gallery; hashes and EXIF details are in `records/2026-10-07-canon-photos.json`. Four self-contained SVG annotations and one schematic north-up site plan accompany them.
+- These later frames establish a continuous fresh concrete surface across the deepest inner square, distinct from the earlier bucket pour onto individual drilled-shaft heads. Workers finish the surface using long handled tools; the observer identifies the blue handle as planing/leveling it. A reinforced shaft head is isolated within the new concrete.
+- The compact excavator remains on the higher east/northeast unpoured bench; hydraulic breaker work, southeast ladder and worker climbing out are observer identifications. Exact plan positions, concrete thickness and final structural role remain unknown.
+- Earlier October 7 wording that the floor layer was unestablished has been corrected temporally, without conflating the two pours. `october7.js` contains both sequences; `history.js` adds the later stage.
