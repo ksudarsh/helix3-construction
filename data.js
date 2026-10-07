@@ -674,7 +674,7 @@ window.HELIX_PHOTOS.push(...[
     "file": "IMG_0143.jpeg",
     "date": "2026-10-07",
     "title": "October 7 \u2014 Mixer truck and concrete bucket",
-    "caption": "The mixer has arrived. The white funnel-shaped item appears to be a crane concrete bucket. The observer reports it will be filled and lifted to deliver concrete into the deeper square; this frame shows preparation, not a completed pour.",
+    "caption": "The mixer has arrived beside the white concrete bucket. This initial frame shows preparation; the later IMG_0148 and direct observer confirmation establish concrete pouring onto a drilled-shaft head.",
     "annotated": true,
     "annotation": "images/annotated/IMG_0143.svg"
   },
@@ -717,8 +717,8 @@ window.HELIX_PHOTOS.push(...[
     "file": "IMG_0148.jpeg",
     "date": "2026-10-07",
     "title": "October 7 \u2014 Bucket reaches the excavation crew",
-    "caption": "The white bucket appears at the lower work area beside the crew and drilled-shaft reinforcement. The crane boom partly obscures the operation; actual concrete discharge and a completed layer are not clearly visible.",
+    "caption": "Concrete is being poured from the crane bucket onto the drilled-shaft head itself. The observer directly witnessed the discharge and identifies IMG_0148 as the still capturing it. The receiving shaft-head reinforcement and attending crew locate the operation; the quantity and purpose of the added concrete remain unknown.",
     "annotated": true,
-    "annotation": "images/annotated/IMG_0148.svg"
+    "annotation": "images/annotated/IMG_0148.svg?v=20261007-shaft-pour"
   }
 ]);
