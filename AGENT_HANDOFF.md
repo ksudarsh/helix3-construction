@@ -2,6 +2,12 @@
 
 This file is the durable project memory for any future ChatGPT/agent continuing this site.
 
+## Start here for the next update
+- Read `AGENTS.md` and `docs/PHOTO_UPDATE_WORKFLOW.md` before implementing a photo update. They contain the verified publication route and the October 6 transfer/rendering lessons.
+- Latest verified field update: October 6, 2026, published at `#update-oct6`. Earlier engineering entries below retain their historical dates.
+- Most important technical lesson: large shell output can silently truncate base64. Use `scripts/photo_payload.py` for bounded chunks and compare each returned GitHub blob SHA with the local expected Git blob SHA before committing.
+- Numbered SVG annotations must embed their photo bytes. Keep originals unchanged and version any replaced asset URL in both the narrative and gallery.
+
 ## 1. Project identity
 - Repository: `ksudarsh/helix3-construction`
 - Public site: `https://ksudarsh.github.io/helix3-construction/`
@@ -219,5 +225,14 @@ This is an educational visual interpretation, not project design documentation o
 - October 6: all six unchanged JPEGs IMG_0133, 0134, 0136, 0138, 0139 and 0140 archived and displayed. October 6 is the observer's local submission date; no capture metadata available.
 - The giant CAT is a tracked hydraulic excavator, not a bulldozer. Observer confirms it departed. Loaded lowboy, folded boom, low central deck, tractor and rear axle group are visible. Loading itself, detachable-gooseneck operation, model, weight and completion of all excavation are not established.
 - Observer directly reports aggregate placement in the lowest excavation. Keep that separate from the foreground office pad. Dark wet surfaces cannot all be classified as aggregate from the distant views. Firmer base / drainage are general interpretations, not confirmed layer specifications or a final cap/mat design.
-- october6.js provides the dated update before october5.js's section and before ui.js initializes dates. Gallery, overview and Site Evolution updated. Two numbered SVG overlays reference unchanged originals.
+- october6.js provides the dated update before october5.js's section and before ui.js initializes dates. Gallery, overview and Site Evolution updated. Two numbered SVG overlays embed photo bytes; unchanged originals remain separately accessible.
 - records/2026-10-06-photos.json preserves hashes, dimensions and date basis.
+
+## 22. October 6 publication lessons and authorization
+- The user explicitly approved publishing the six photos and captions to this existing public website after an automatic review block. Preserve that authorization for the same work; do not ask again merely because a future thread starts. Do not extrapolate it to unrelated private disclosures or bypass new review rejections.
+- CLI clone/fetch succeeded; CLI push lacked credentials. The GitHub connector's blob → tree → commit → ref route succeeded. No new hosting provider was needed.
+- A 945,043-byte SVG was silently truncated during shell-to-tool base64 transfer to 786,444 decoded bytes. Success/HTTP 200 did not prove integrity. Bounded 200,000-character chunks plus exact Git blob SHA comparison fixed it.
+- The corrected excavation image is `images/annotated/IMG_0136.svg?v=20261006-complete` in both the narrative and gallery. Versioning also bypassed a cached corrupt response.
+- Final October 6 publication commit: `8bd0554d7d9072ee0029cee34781b1933dacc4e6`; its Pages deployment succeeded. Both annotated images visibly rendered; originals, expandable portrait view and enlargement/close behavior were checked live.
+- Local Playwright lacked a browser binary and its download failed; CairoSVG was absent. Live CUA browser verification succeeded. Do not repeat installation attempts by default.
+- `docs/PHOTO_UPDATE_WORKFLOW.md` is the detailed runbook; `scripts/photo_payload.py` is the transfer helper. Keep future handoffs short and point to these instead of rediscovering the workflow.
