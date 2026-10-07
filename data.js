@@ -722,3 +722,36 @@ window.HELIX_PHOTOS.push(...[
     "annotation": "images/annotated/IMG_0148.svg?v=20261007-shaft-pour"
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0149.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 — Bucket positioned over the shaft head",
+    "caption": "The bucket outlet is positioned over the shaft-head reinforcement, with workers attending the pour. This closer view supports the observer-confirmed concrete placement onto the shaft head.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0149.svg"
+  },
+  {
+    "file": "IMG_0150.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 — Another view of the same pour",
+    "caption": "The bucket is above the same receiving shaft head with the crew around it. This complements IMG_0149; overlapping photographs are not counted as separate concrete loads.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0151.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 — Smoother tops above the working surface",
+    "caption": "The observer reports the treated shaft tops are now smooth and higher than the surrounding surface. Flatter-looking concrete tops and the surrounding lower work area are visible, while reinforcement remains projecting above the concrete.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0151.svg"
+  },
+  {
+    "file": "IMG_0153.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 — Two mixers support concrete delivery",
+    "caption": "Two yellow Silvi concrete mixer trucks occupy the barrier-separated site lane. This records the visible supply arrangement; truck count in this frame does not establish total loads or concrete volume.",
+    "annotated": false
+  }
+]);

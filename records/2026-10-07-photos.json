@@ -69,5 +69,45 @@
     "date_basis": "Follow-up submission in America/New_York; capture time unavailable",
     "selection": "Concrete is being poured from the crane bucket onto the drilled-shaft head itself. The observer directly witnessed the discharge and identifies IMG_0148 as the still capturing it. The receiving shaft-head reinforcement and attending crew locate the operation; the quantity and purpose of the added concrete remain unknown.",
     "observer_confirmation": "Observer directly saw concrete poured from bucket onto the shaft head and identifies this still as capturing active discharge; correction supplied October 7, 2026."
+  },
+  {
+    "file": "IMG_0149.jpeg",
+    "sha256": "b36fb73cf24c56904128adf490f0ecc72982cc5fe407b0520cb752d944d64129",
+    "bytes": 517305,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Later morning submission in America/New_York; capture time unavailable",
+    "selection": "The bucket outlet is positioned over the shaft-head reinforcement, with workers attending the pour. This closer view supports the observer-confirmed concrete placement onto the shaft head."
+  },
+  {
+    "file": "IMG_0150.jpeg",
+    "sha256": "859d38187f4bf67af46331917f5c472f325c3fee5dc132b644327ae3b6970cd2",
+    "bytes": 480055,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Later morning submission in America/New_York; capture time unavailable",
+    "selection": "The bucket is above the same receiving shaft head with the crew around it. This complements IMG_0149; overlapping photographs are not counted as separate concrete loads."
+  },
+  {
+    "file": "IMG_0151.jpeg",
+    "sha256": "872668dab9702d480e23d2cd98fca5d21d5f0a39cb9910bf699af6d9bd36c370",
+    "bytes": 483729,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Later morning submission in America/New_York; capture time unavailable",
+    "selection": "The observer reports the treated shaft tops are now smooth and higher than the surrounding surface. Flatter-looking concrete tops and the surrounding lower work area are visible, while reinforcement remains projecting above the concrete."
+  },
+  {
+    "file": "IMG_0153.jpeg",
+    "sha256": "848ee1eff5568aa2037deb5b2e82d089f16cc953b6183b833eb485cc428c0e9e",
+    "bytes": 422788,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Later morning submission in America/New_York; capture time unavailable",
+    "selection": "Two yellow Silvi concrete mixer trucks occupy the barrier-separated site lane. This records the visible supply arrangement; truck count in this frame does not establish total loads or concrete volume."
   }
 ]
