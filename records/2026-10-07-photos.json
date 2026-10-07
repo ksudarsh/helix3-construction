@@ -38,5 +38,35 @@
     "date": "2026-10-07",
     "date_basis": "Observer submission in America/New_York; capture time unavailable",
     "selection": "This closer view complements the full-site overview: the inner pocket, surrounding working level, access ladder and compact excavator remain visible. The purpose and exact depths of the two squares are unknown."
+  },
+  {
+    "file": "IMG_0146.jpeg",
+    "sha256": "cab28bb63ea6879853f9255f8c0ff043cb7ba936894b4aac749704e76a58bf51",
+    "bytes": 416007,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Follow-up submission in America/New_York; capture time unavailable",
+    "selection": "The bucket is visibly connected to the crane and suspended beside the mixer. Its contents and the act of filling are not clearly resolved."
+  },
+  {
+    "file": "IMG_0147.jpeg",
+    "sha256": "0243b221040a24c4f1f04edd15a49d072a8703ea2c1c8324e87379831473625e",
+    "bytes": 431529,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Follow-up submission in America/New_York; capture time unavailable",
+    "selection": "A complementary view locates the bucket beside the mixer and boundary wall. These photographs show stages of the same delivery sequence, not separate bucket-load counts."
+  },
+  {
+    "file": "IMG_0148.jpeg",
+    "sha256": "a5008ed9833621d92508eb1fc6819fb9293757c0380f169318f7167636984b06",
+    "bytes": 466066,
+    "width": 864,
+    "height": 1536,
+    "date": "2026-10-07",
+    "date_basis": "Follow-up submission in America/New_York; capture time unavailable",
+    "selection": "The white bucket appears at the lower work area beside the crew and drilled-shaft reinforcement. The crane boom partly obscures the operation; actual concrete discharge and a completed layer are not clearly visible."
   }
 ]

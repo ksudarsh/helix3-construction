@@ -695,3 +695,30 @@ window.HELIX_PHOTOS.push(...[
     "annotation": "images/annotated/IMG_0145.svg"
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0146.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Bucket lifted beside the mixer",
+    "caption": "The bucket is visibly connected to the crane and suspended beside the mixer. Its contents and the act of filling are not clearly resolved.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0146.svg"
+  },
+  {
+    "file": "IMG_0147.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Bucket beside the truck",
+    "caption": "A complementary view locates the bucket beside the mixer and boundary wall. These photographs show stages of the same delivery sequence, not separate bucket-load counts.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0147.svg"
+  },
+  {
+    "file": "IMG_0148.jpeg",
+    "date": "2026-10-07",
+    "title": "October 7 \u2014 Bucket reaches the excavation crew",
+    "caption": "The white bucket appears at the lower work area beside the crew and drilled-shaft reinforcement. The crane boom partly obscures the operation; actual concrete discharge and a completed layer are not clearly visible.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0148.svg"
+  }
+]);
