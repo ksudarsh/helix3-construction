@@ -643,7 +643,7 @@ window.HELIX_PHOTOS.push(...[
     "title": "October 6 — The lowest excavation and the office pad",
     "caption": "Numbered overview locates the lower pocket, shaft heads, crane, foreground aggregate and eastern office. The observer confirms aggregate is being placed in the lowest cuts; exact coverage and final layer function remain unknown.",
     "annotated": true,
-    "annotation": "images/annotated/IMG_0136.svg"
+    "annotation": "images/annotated/IMG_0136.svg?v=20261006-complete"
   },
   {
     "file": "IMG_0134.jpeg",
