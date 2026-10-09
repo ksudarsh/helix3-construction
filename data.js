@@ -804,3 +804,87 @@ window.HELIX_PHOTOS.push(...[
     "annotated": false
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0165.jpeg",
+    "date": "2026-10-09",
+    "title": "October 9 \u2014 Overlapping cuts and preparation inside the forms",
+    "caption": "The closer view shows crew inside the shuttering, shaft reinforcement, the interior access ladder and a second open cut extending in front and to the right. The observer identifies two overlapping square excavations and preparation for a pour.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0165.svg"
+  },
+  {
+    "file": "IMG_0166.jpeg",
+    "date": "2026-10-09",
+    "title": "October 9 \u2014 Formed square within the wider excavation",
+    "caption": "The wide view locates the formed square and adjacent open cut within the larger shaft field. The crane, smaller excavator, retained perimeter and site offices provide context. Exact excavation boundaries and dimensions are not surveyed.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0166.svg"
+  }
+]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0155.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Crane and lower-square work area",
+    "caption": "Morning overview of the crane and previously concreted lower work area.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0156.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Shuttering delivery truck",
+    "caption": "Stacked formwork panels on the delivery truck. The observer reports shuttering arriving this morning.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0156.svg"
+  },
+  {
+    "file": "IMG_0157.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Delivery viewed from the access lane",
+    "caption": "Another view of the panel delivery and workers in the access lane.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0158.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Panels staged beside the shaft heads",
+    "caption": "Formwork panels are staged beside the lower-square concrete surface and projecting shaft reinforcement.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0158.svg"
+  },
+  {
+    "file": "IMG_0159.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Wide view during assembly",
+    "caption": "The wide view places the assembly activity within the surrounding shaft field.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0160.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Close view during assembly",
+    "caption": "Workers and staged panels surround the concrete surface during the assembly sequence.",
+    "annotated": false
+  },
+  {
+    "file": "IMG_0161.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Completed shuttering enclosure",
+    "caption": "Upright shuttering encloses several shaft heads. A ladder provides access at the right-hand side.",
+    "annotated": true,
+    "annotation": "images/annotated/IMG_0161.svg"
+  },
+  {
+    "file": "IMG_0162.jpeg",
+    "date": "2026-10-08",
+    "title": "October 8 \u2014 Completed enclosure in the wider site",
+    "caption": "The enclosure is visible within the wider excavation, with the crane and other exposed shaft heads nearby.",
+    "annotated": false
+  }
+]);
+
+
+window.HELIX_PHOTOS.push({"file": "IMG_66B7FABC-331D-41E4-8C28-D7BF816F4E78.jpeg", "date": "2026-10-09", "title": "October 9 \u2014 Reinforcing steel arrives", "caption": "Bundles of long reinforcing bars arrive on a delivery trailer. Installation within the shuttering and final reinforcement layout are not yet shown.", "annotated": true, "annotation": "images/annotated/20261009-rebar-arrival.svg"});
