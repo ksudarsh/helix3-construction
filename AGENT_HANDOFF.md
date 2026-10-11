@@ -243,8 +243,15 @@ This is an educational visual interpretation, not project design documentation o
 - The compact excavator remains on the higher east/northeast unpoured bench; hydraulic breaker work, southeast ladder and worker climbing out are observer identifications. Exact plan positions, concrete thickness and final structural role remain unknown.
 - Earlier October 7 wording that the floor layer was unestablished has been corrected temporally, without conflating the two pours. `october7.js` contains both sequences; `history.js` adds the later stage.
 
-## 24. October 8–9 formwork and reinforcing-steel delivery — text published, images pending
-- See `records/2026-10-08-and-09-closeout.md` for the visual inventory, evidence levels and precise byte-access blocker. Photo files IMG_0155–IMG_0162, IMG_0165–IMG_0166 and IMG_66B7FABC-331D-41E4-8C28-D7BF816F4E78.jpeg were inspected from the ChatGPT Project Library, but not materializable as binary in this session. Do **not** claim they were uploaded or annotated on GitHub.
-- The October 8–9 narrative in `october9.js` records delivered modular formwork, crane/outriggers, an inner-square enclosure, ladders and a later delivery of bundled long reinforcing steel. The site reuses one clearly labeled **October 7 comparison image** until those originals can be transferred.
+## 24. October 8–9 formwork and reinforcing-steel delivery
+- See `records/2026-10-08-and-09-closeout.md` for the visual inventory, evidence levels and precise byte-access blocker. Photo files IMG_0155–IMG_0162, IMG_0165–IMG_0166 and IMG_66B7FABC-331D-41E4-8C28-D7BF816F4E78.jpeg were subsequently published in commit `1365031` with annotations for selected views.
+- The October 8–9 narrative in `october9.js` records delivered modular formwork, crane/outriggers, an inner-square enclosure, ladders and a later delivery of bundled long reinforcing steel. The site now shows the October 8–9 originals and annotated views.
 - The latest site section uses `data-updateStartDate=2026-10-08` and `data-updateDate=2026-10-09`. Precise capture dates and the permanent foundation design remain unconfirmed.
-- Once binary photo access is available, close out by preserving originals, generating numbered self-contained SVG overlays, updating `data.js` and `history.js`, testing and deploying. Avoid importing the parenthesized duplicate Library copies.
+- The prior image-access blocker was resolved in the subsequent October 8–9 publication.
+
+## 25. October 11 formwork and staged reinforcement
+- Seven unchanged iPhone 17 Pro HEIC originals IMG_1707–IMG_1713 are preserved; camera metadata places them on October 11, 2026 local time. See `records/2026-10-11-photos.json` and closeout note for hashes, dimensions and selection.
+- IMG_1707 is the best overhead view of the already erected black and orange form panels, white sheet material, several projecting shaft-bar groups and temporary access. IMG_1708 is a near-duplicate, archived but not displayed.
+- IMG_1709 is the repeat whole-site view. IMG_1711 and IMG_1712 show staged right-angle bent bars; IMG_1713 links crane, exposed shafts and formed area; IMG_1710 shows separate equipment and shaft heads. Six self-contained SVG overlays and browser JPEGs accompany the unchanged HEICs.
+- Do not assign a waterproofing, insulation, curing or final structural function to the white sheet, or a destination for the bent bars, until further evidence appears. No concrete thickness, bar schedule or completed foundation connection is established.
+- The bundled `heif-convert` decoded these iPhone HEIC files correctly. `sips` produced all-black JPEGs; reject such outputs after pixel inspection.

@@ -1,0 +1,103 @@
+{
+  "date_basis": "Camera creation metadata, local time America/New_York",
+  "photos": [
+    {
+      "file": "images/originals/IMG_1707.HEIC",
+      "sha256": "e41cd32d3fe9227bc629f085efe24cecd57a62c84fb0bffe19de8206dee3e042",
+      "capture_local": "2026:10:11 12:50:55",
+      "width": 4032,
+      "height": 3024,
+      "web_file": "images/web/IMG_1707.jpg",
+      "web_dimensions": [
+        3600,
+        2700
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1707.svg"
+    },
+    {
+      "file": "images/originals/IMG_1708.HEIC",
+      "sha256": "4eb228c6d49525d4308c684b95400234c264de4a3c06bf56159d7f0110d7181e",
+      "capture_local": "2026:10:11 12:51:26",
+      "width": 4032,
+      "height": 2268,
+      "web_file": "images/web/IMG_1708.jpg",
+      "web_dimensions": [
+        3600,
+        2025
+      ],
+      "displayed": false,
+      "annotation": null
+    },
+    {
+      "file": "images/originals/IMG_1709.heic",
+      "sha256": "f160f684be94166a05d9df873029c78f3acc60e7d0d749ba5a4037af651b6c56",
+      "capture_local": "2026:10:11 12:52:19",
+      "width": 3213,
+      "height": 5712,
+      "web_file": "images/web/IMG_1709.jpg",
+      "web_dimensions": [
+        2025,
+        3600
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1709.svg"
+    },
+    {
+      "file": "images/originals/IMG_1710.heic",
+      "sha256": "e16bfd20888e5256d43beee6fcc91f64a216145522604cf5dc8580904c45994b",
+      "capture_local": "2026:10:11 12:52:28",
+      "width": 2268,
+      "height": 4032,
+      "web_file": "images/web/IMG_1710.jpg",
+      "web_dimensions": [
+        2025,
+        3600
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1710.svg"
+    },
+    {
+      "file": "images/originals/IMG_1711.HEIC",
+      "sha256": "df90270e1c1b293b751c217c72beacf025419913337d3cca2b25068024b695a4",
+      "capture_local": "2026:10:11 12:52:43",
+      "width": 2268,
+      "height": 4032,
+      "web_file": "images/web/IMG_1711.jpg",
+      "web_dimensions": [
+        2025,
+        3600
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1711.svg"
+    },
+    {
+      "file": "images/originals/IMG_1712.HEIC",
+      "sha256": "95c87caddfd34b6ad80e739c3f66c2a4af4dbc8e139fb0caae4f5bbf5bc8a4b6",
+      "capture_local": "2026:10:11 12:52:49",
+      "width": 2268,
+      "height": 4032,
+      "web_file": "images/web/IMG_1712.jpg",
+      "web_dimensions": [
+        2025,
+        3600
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1712.svg"
+    },
+    {
+      "file": "images/originals/IMG_1713.heic",
+      "sha256": "fc84e8556f5a6604bb5902d37c62cc2e6592b8fcbddf6e18962ede5cfa412c80",
+      "capture_local": "2026:10:11 12:53:23",
+      "width": 2268,
+      "height": 4032,
+      "web_file": "images/web/IMG_1713.jpg",
+      "web_dimensions": [
+        2025,
+        3600
+      ],
+      "displayed": true,
+      "annotation": "images/annotated/IMG_1713.svg"
+    }
+  ]
+}
