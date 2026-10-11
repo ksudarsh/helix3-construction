@@ -897,3 +897,17 @@ window.HELIX_PHOTOS.push(...[
   {file:'IMG_1712.HEIC',web:'images/web/IMG_1712.jpg',date:'2026-10-11',title:'October 11 — Bars beside street-side shoring',caption:'Long bent bars are staged along the shored perimeter above exposed shaft heads. The eventual connection cannot be assigned from this image.',annotated:true,annotation:'images/annotated/IMG_1712.svg'},
   {file:'IMG_1713.heic',web:'images/web/IMG_1713.jpg',date:'2026-10-11',title:'October 11 — Crane, shafts and formwork',caption:'The crane boom and hook, two exposed shaft heads, staged bent bars and formed inner area appear together. No lift is visible in progress.',annotated:true,annotation:'images/annotated/IMG_1713.svg'}
 ]);
+
+// Preserve the full-resolution iPhone 12 camera files while retaining the established JPEG previews.
+const iphone12Existing = new Set(['0149','0150','0151','0153','0155','0156','0157','0158','0159','0160','0161','0162','0165','0166']);
+window.HELIX_PHOTOS.forEach(photo => {
+  const match = /^IMG_(\d{4})\.jpeg$/.exec(photo.file);
+  if(match && iphone12Existing.has(match[1])) {
+    photo.web = `images/originals/${photo.file}`;
+    photo.file = `IMG_${match[1]}.heic`;
+  }
+});
+window.HELIX_PHOTOS.push(
+  {file:'IMG_0167.heic',web:'images/web/IMG_0167.jpg',date:'2026-10-09',title:'October 9 — White sheet inside the forms',caption:'The midday wide view shows white sheeting across much of the formed interior, around projecting shaft bars and against the inner form edge. Its product and purpose remain unknown.',annotated:true,annotation:'images/annotated/IMG_0167.svg'},
+  {file:'IMG_0169.heic',web:'images/web/IMG_0169.jpg',date:'2026-10-09',title:'October 9 — Sheeting around the shaft bars',caption:'The closer view shows the sheet around shaft openings and a worker handling material at the right edge. IMG_0168 is an overlapping frame preserved in the camera archive.',annotated:true,annotation:'images/annotated/IMG_0169.svg'}
+);
