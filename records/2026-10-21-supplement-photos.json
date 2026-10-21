@@ -13,11 +13,18 @@
       "width": 4032,
       "height": 3024,
       "orientation": 1,
-      "displayed": false,
+      "displayed": true,
       "decoded_dimensions": [
         4032,
         2268
-      ]
+      ],
+      "web_file": "images/web/IMG_2470.jpg",
+      "web_dimensions": [
+        2600,
+        1463
+      ],
+      "annotation": "images/annotated/IMG_2470.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_2471.HEIC",
@@ -30,11 +37,18 @@
       "width": 4032,
       "height": 3024,
       "orientation": 1,
-      "displayed": false,
+      "displayed": true,
       "decoded_dimensions": [
         4032,
         2268
-      ]
+      ],
+      "web_file": "images/web/IMG_2471.jpg",
+      "web_dimensions": [
+        2600,
+        1463
+      ],
+      "annotation": "images/annotated/IMG_2471.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_2472.HEIC",
@@ -51,7 +65,8 @@
       "decoded_dimensions": [
         2268,
         4032
-      ]
+      ],
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_2473.HEIC",
@@ -64,11 +79,18 @@
       "width": 4032,
       "height": 3024,
       "orientation": 1,
-      "displayed": false,
+      "displayed": true,
       "decoded_dimensions": [
         2268,
         4032
-      ]
+      ],
+      "web_file": "images/web/IMG_2473.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": "images/annotated/IMG_2473.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_2474.HEIC",
@@ -81,11 +103,18 @@
       "width": 4032,
       "height": 3024,
       "orientation": 1,
-      "displayed": false,
+      "displayed": true,
       "decoded_dimensions": [
         2268,
         4032
-      ]
+      ],
+      "web_file": "images/web/IMG_2474.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": "images/annotated/IMG_2474.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_2475.HEIC",
@@ -98,11 +127,18 @@
       "width": 5712,
       "height": 4284,
       "orientation": 1,
-      "displayed": false,
+      "displayed": true,
       "decoded_dimensions": [
         3213,
         5712
-      ]
+      ],
+      "web_file": "images/web/IMG_2475.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": null,
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_2476.HEIC",
@@ -119,7 +155,8 @@
       "decoded_dimensions": [
         2268,
         4032
-      ]
+      ],
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     }
   ],
   "dimension_note": "width and height are embedded EXIF pixel dimensions; decoded_dimensions account for HEIF display transforms."

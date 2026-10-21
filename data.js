@@ -911,3 +911,116 @@ window.HELIX_PHOTOS.push(
   {file:'IMG_0167.heic',web:'images/web/IMG_0167.jpg',date:'2026-10-09',title:'October 9 — White sheet inside the forms',caption:'The midday wide view shows white sheeting across much of the formed interior, around projecting shaft bars and against the inner form edge. Its product and purpose remain unknown.',annotated:true,annotation:'images/annotated/IMG_0167.svg'},
   {file:'IMG_0169.heic',web:'images/web/IMG_0169.jpg',date:'2026-10-09',title:'October 9 — Sheeting around the shaft bars',caption:'The closer view shows the sheet around shaft openings and a worker handling material at the right edge. IMG_0168 is an overlapping frame preserved in the camera archive.',annotated:true,annotation:'images/annotated/IMG_0169.svg'}
 );
+
+// October 13–21: EXIF-dated foundation sequence and two-crane operation.
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0171.heic",
+    "web": "images/web/IMG_0171.jpg",
+    "date": "2026-10-13",
+    "title": "October 13 · White lining before the steel",
+    "caption": "07:26 EDT. White sheet lines the enclosure around exposed shaft-head openings. The later reinforcing cage has not yet filled the visible floor.",
+    "alt": "Numbered October 13 photo showing white sheet inside shuttering around projecting shaft reinforcement",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_0171.svg"
+  },
+  {
+    "file": "IMG_0174.heic",
+    "web": "images/web/IMG_0174.jpg",
+    "date": "2026-10-14",
+    "title": "October 14 · Steel enters the square",
+    "caption": "10:51 EDT. Workers assemble horizontal reinforcement within the lined enclosure. Projecting reinforcement and the surrounding shuttering remain visible.",
+    "alt": "Numbered October 14 view of workers installing reinforcing steel inside the lined square",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_0174.svg"
+  },
+  {
+    "file": "IMG_0199.heic",
+    "web": "images/web/IMG_0199.jpg",
+    "date": "2026-10-16",
+    "title": "October 16 · Dense reinforcement within the forms",
+    "caption": "08:29 EDT. The closer view shows a dense arrangement of horizontal steel and upright bars. White lining remains visible at the form edge.",
+    "alt": "Numbered October 16 close view of dense horizontal reinforcement within square shuttering",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_0199.svg"
+  },
+  {
+    "file": "IMG_0209.heic",
+    "web": "images/web/IMG_0209.jpg",
+    "date": "2026-10-17",
+    "title": "October 17 · Mixer and concrete pump",
+    "caption": "08:07 EDT. A mixer is positioned behind the red truck-mounted pump, whose boom reaches toward the formed square. The observer reports a succession of trucks supplying the pour; the still does not resolve discharge at the hose tip.",
+    "alt": "Numbered photo of a concrete mixer, red pump truck and placing boom reaching into the excavation",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_0209.svg"
+  },
+  {
+    "file": "IMG_0212.heic",
+    "web": "images/web/IMG_0212.jpg",
+    "date": "2026-10-17",
+    "title": "October 17 · Concrete placed, another base prepared",
+    "caption": "15:07 EDT. A concrete surface is now visible within the initial square, with bars projecting above it. The adjoining gray base surrounds further shaft heads at an earlier stage.",
+    "alt": "Numbered afternoon October 17 overview distinguishing the poured initial square and neighboring prepared base",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_0212.svg"
+  },
+  {
+    "file": "IMG_2470.HEIC",
+    "web": "images/web/IMG_2470.jpg",
+    "date": "2026-10-21",
+    "title": "October 21 · More rectangles under preparation",
+    "caption": "07:56 EDT. The closer iPhone 15 Pro view shows shuttering, projecting reinforcement, gray prepared surfaces and an excavator breaker attachment. Exact cap dimensions are not established.",
+    "alt": "Numbered close view of another rectangular form enclosure, shaft bars, prepared concrete base and breaker-equipped excavator",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_2470.svg"
+  },
+  {
+    "file": "IMG_2471.HEIC",
+    "web": "images/web/IMG_2471.jpg",
+    "date": "2026-10-21",
+    "title": "October 21 · The new white crane",
+    "caption": "07:57 EDT. The white mobile crane stands at the far/west end on extended outriggers. The observer identifies it as a new arrival supporting the foundation work.",
+    "alt": "Numbered photo of the white mobile crane on extended outriggers at the western end of the site",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_2471.svg"
+  },
+  {
+    "file": "IMG_2473.HEIC",
+    "web": "images/web/IMG_2473.jpg",
+    "date": "2026-10-21",
+    "title": "October 21 · White sheet around exposed connections",
+    "caption": "07:57 EDT. The foreground zone is lined around circular shaft-head openings. Prepared bases and steel installation appear beyond it, illustrating different stages of the repeated process.",
+    "alt": "Numbered close overview of white sheeting with openings around shaft heads, neighboring bases and reinforcing steel installation",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_2473.svg"
+  },
+  {
+    "file": "IMG_2474.HEIC",
+    "web": "images/web/IMG_2474.jpg",
+    "date": "2026-10-21",
+    "title": "October 21 · Two cranes, opposite ends",
+    "caption": "07:57 EDT. The yellow crane is closest to the observer on the east; the white crane is at the far/west end. Their positions bracket the developing foundation zones.",
+    "alt": "Numbered whole-site view locating the yellow crane at the eastern end and white crane at the western end",
+    "annotated": true,
+    "update": "oct21",
+    "annotation": "images/annotated/IMG_2474.svg"
+  },
+  {
+    "file": "IMG_2475.HEIC",
+    "web": "images/web/IMG_2475.jpg",
+    "date": "2026-10-21",
+    "title": "October 21 · The excavation in its city setting",
+    "caption": "07:57 EDT. The higher-resolution context frame places the excavation and both cranes among the surrounding buildings. This viewing copy follows the HEIF display orientation.",
+    "alt": "Wide city context photograph showing the full excavation between neighboring buildings",
+    "annotated": false,
+    "update": "oct21"
+  }
+]);

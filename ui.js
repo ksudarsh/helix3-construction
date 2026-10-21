@@ -7,7 +7,7 @@
     heroInner.appendChild(actions);
     const stats=document.createElement('div');
     stats.className='hero-stats';
-    stats.innerHTML=`<div><strong data-latest-field-date>—</strong><span>latest field update</span></div><div><strong>Upper casing removal</strong><span>shaft heads exposed</span></div><div><strong data-latest-commit-date>Checking…</strong><span><a href="https://github.com/ksudarsh/helix3-construction/commits/main">latest commit</a></span></div>`;
+    stats.innerHTML=`<div><strong data-latest-field-date>—</strong><span>latest field update</span></div><div><strong>Grouped foundations</strong><span>reinforcement &amp; block pours</span></div><div><strong data-latest-commit-date>Checking…</strong><span><a href="https://github.com/ksudarsh/helix3-construction/commits/main">latest commit</a></span></div>`;
     heroInner.appendChild(stats);
     const latestCommitDate=stats.querySelector('[data-latest-commit-date]');
     fetch('https://api.github.com/repos/ksudarsh/helix3-construction/commits/main',{

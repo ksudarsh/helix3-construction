@@ -16,7 +16,14 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": true,
+      "web_file": "images/web/IMG_0171.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": "images/annotated/IMG_0171.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_0174.heic",
@@ -28,7 +35,14 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": true,
+      "web_file": "images/web/IMG_0174.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": "images/annotated/IMG_0174.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_0198.heic",
@@ -40,7 +54,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0199.heic",
@@ -52,7 +67,14 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": true,
+      "web_file": "images/web/IMG_0199.jpg",
+      "web_dimensions": [
+        2600,
+        1463
+      ],
+      "annotation": "images/annotated/IMG_0199.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_0200.heic",
@@ -64,7 +86,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0201.heic",
@@ -76,7 +99,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0203.heic",
@@ -88,7 +112,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0204.heic",
@@ -100,7 +125,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0207.heic",
@@ -112,7 +138,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0208.heic",
@@ -124,7 +151,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0209.heic",
@@ -136,7 +164,14 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": true,
+      "web_file": "images/web/IMG_0209.jpg",
+      "web_dimensions": [
+        2600,
+        1463
+      ],
+      "annotation": "images/annotated/IMG_0209.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_0210.heic",
@@ -148,7 +183,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0211.heic",
@@ -160,7 +196,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0212.heic",
@@ -172,7 +209,14 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": true,
+      "web_file": "images/web/IMG_0212.jpg",
+      "web_dimensions": [
+        1462,
+        2600
+      ],
+      "annotation": "images/annotated/IMG_0212.svg",
+      "selection_reason": "Distinct dated construction stage or clearer October 21 detail / site context."
     },
     {
       "file": "images/originals/IMG_0242.heic",
@@ -184,7 +228,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0243.heic",
@@ -196,7 +241,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0244.heic",
@@ -208,7 +254,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0245.heic",
@@ -220,7 +267,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     },
     {
       "file": "images/originals/IMG_0246.heic",
@@ -232,7 +280,8 @@
       "camera": "iPhone 12",
       "width": 4032,
       "height": 3024,
-      "displayed": false
+      "displayed": false,
+      "selection_reason": "Overlapping coverage retained unchanged in the original-photo archive."
     }
   ]
 }
