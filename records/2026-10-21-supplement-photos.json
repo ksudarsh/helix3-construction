@@ -1,0 +1,126 @@
+{
+  "submitted_date": "2026-10-21",
+  "date_basis": "Embedded EXIF DateTimeOriginal, OffsetTimeOriginal and SubSecTimeOriginal; original bytes preserved.",
+  "photos": [
+    {
+      "file": "images/originals/IMG_2470.HEIC",
+      "bytes": 2223647,
+      "sha256": "96b40a4dac6bcc014ab029488aee4b7525000fa5a4eee2ef870bb990bfcffa12",
+      "capture_local": "2026:10:21 07:56:59",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "850",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        4032,
+        2268
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2471.HEIC",
+      "bytes": 2133686,
+      "sha256": "803bc9759f2c4ed12da2242e34c9becf2ab825a3cf5500fd9979fc303a5b58d7",
+      "capture_local": "2026:10:21 07:57:03",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "639",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        4032,
+        2268
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2472.HEIC",
+      "bytes": 2235168,
+      "sha256": "26050b80532d0c20f64e6e69f9718744b8287ddaa11e0716a2d908feaf039391",
+      "capture_local": "2026:10:21 07:57:12",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "976",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        2268,
+        4032
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2473.HEIC",
+      "bytes": 2110701,
+      "sha256": "ae521672e81f691be75eb947a75e6f7beec47eee8c5e7982e3968029f880960c",
+      "capture_local": "2026:10:21 07:57:20",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "438",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        2268,
+        4032
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2474.HEIC",
+      "bytes": 1921055,
+      "sha256": "4df09f66f40b49cea52fe0e081256be55743cd3fdf2d2c2289848540b327be34",
+      "capture_local": "2026:10:21 07:57:23",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "450",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        2268,
+        4032
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2475.HEIC",
+      "bytes": 3263707,
+      "sha256": "3ccf463cab38e2fd69072b8aa8ee0c672d0b1bc5744750f9bfb27066fa3073dc",
+      "capture_local": "2026:10:21 07:57:29",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "321",
+      "camera": "iPhone 15 Pro",
+      "width": 5712,
+      "height": 4284,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        3213,
+        5712
+      ]
+    },
+    {
+      "file": "images/originals/IMG_2476.HEIC",
+      "bytes": 1686713,
+      "sha256": "b42d70e37062a81763061e1d87c0bbdc3214775e7e18560ab75983182ae18d38",
+      "capture_local": "2026:10:21 07:57:39",
+      "offset_time_original": "-04:00",
+      "subsecond_time_original": "236",
+      "camera": "iPhone 15 Pro",
+      "width": 4032,
+      "height": 3024,
+      "orientation": 1,
+      "displayed": false,
+      "decoded_dimensions": [
+        2268,
+        4032
+      ]
+    }
+  ],
+  "dimension_note": "width and height are embedded EXIF pixel dimensions; decoded_dimensions account for HEIF display transforms."
+}
