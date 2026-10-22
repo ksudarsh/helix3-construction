@@ -1,0 +1,131 @@
+{
+  "date_basis": "EXIF DateTimeOriginal and OffsetTimeOriginal; all times EDT (UTC\u221204:00), independent of filesystem dates.",
+  "photos": [
+    {
+      "captured": "2026:10:22 08:18:04",
+      "digitized": "2026:10:22 08:18:04",
+      "file": "IMG_0252.heic",
+      "height": 4032,
+      "modified_metadata": "2026:10:22 08:18:04",
+      "offset": "-04:00",
+      "width": 2268,
+      "sha256": "7b7783527dc716bc59d269186ef64c526992e48cc59f29876026d046c4c3b44a",
+      "bytes": 1843722,
+      "web": "images/web/IMG_0252.jpg",
+      "displayed": true,
+      "duplicates": [
+        "IMG_0252 2.heic"
+      ]
+    },
+    {
+      "captured": "2026:10:22 08:18:17",
+      "digitized": "2026:10:22 08:18:17",
+      "file": "IMG_0253.heic",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 08:18:17",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "32d383663682e84d9dbb444ec2b9a92cfbb08aa11baa87c35294d010f902fd99",
+      "bytes": 596918,
+      "web": "images/web/IMG_0253.jpg",
+      "displayed": true,
+      "duplicates": [
+        "IMG_0253 2.heic"
+      ]
+    },
+    {
+      "captured": "2026:10:22 08:18:22",
+      "digitized": "2026:10:22 08:18:22",
+      "file": "IMG_0254.heic",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 08:18:22",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "93c48221d87d3f13b66e167ff26b0d62189fcf5a605e055a34370aa17f011693",
+      "bytes": 551489,
+      "web": "images/web/IMG_0254.jpg",
+      "displayed": true,
+      "duplicates": [
+        "IMG_0254 2.heic"
+      ]
+    },
+    {
+      "captured": "2026:10:22 09:07:27",
+      "digitized": "2026:10:22 09:07:27",
+      "file": "FullSizeRender.HEIC",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 09:07:27",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "1043051e15e265ce440797dd37b2daa8602c390af902ff2a0ba4a099a0cf6914",
+      "bytes": 2665538,
+      "web": "images/web/oct22_090727.jpg",
+      "displayed": false,
+      "duplicates": [
+        "FullSizeRender 5.HEIC"
+      ]
+    },
+    {
+      "captured": "2026:10:22 09:07:32",
+      "digitized": "2026:10:22 09:07:32",
+      "file": "FullSizeRender 2.HEIC",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 09:07:32",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "2a709035f46e02db2ed017258d18ae68d47fc827de3eeec20fa7920d0939334f",
+      "bytes": 2710439,
+      "web": "images/web/oct22_090732.jpg",
+      "displayed": true,
+      "duplicates": [
+        "FullSizeRender 6.HEIC"
+      ]
+    },
+    {
+      "captured": "2026:10:22 09:07:37",
+      "digitized": "2026:10:22 09:07:37",
+      "file": "FullSizeRender 3.HEIC",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 09:07:37",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "30721dfb8616aa1555b7e000c2ec5b8915969512903a2808899ca8e77797c2e0",
+      "bytes": 2554001,
+      "web": "images/web/oct22_090737.jpg",
+      "displayed": false,
+      "duplicates": [
+        "FullSizeRender 7.HEIC"
+      ]
+    },
+    {
+      "captured": "2026:10:22 09:07:59",
+      "digitized": "2026:10:22 09:07:59",
+      "file": "FullSizeRender 4.HEIC",
+      "height": 2268,
+      "modified_metadata": "2026:10:22 09:07:59",
+      "offset": "-04:00",
+      "width": 4032,
+      "sha256": "a70223e4a571d12d9b4144fa0bbbabf62774cbc4935f9238795c4f7b85ee2d86",
+      "bytes": 1958239,
+      "web": "images/web/oct22_090759.jpg",
+      "displayed": true,
+      "duplicates": [
+        "FullSizeRender 8.HEIC"
+      ]
+    },
+    {
+      "captured": "2026:10:22 15:02:29",
+      "digitized": "2026:10:22 15:02:29",
+      "file": "IMG_0260.heic",
+      "height": 4032,
+      "modified_metadata": "2026:10:22 15:02:29",
+      "offset": "-04:00",
+      "width": 2268,
+      "sha256": "fd9848d4600b3d26455d5cff6996c55a62a6e46bc37eca3880c51fbf9d92db51",
+      "bytes": 1213635,
+      "web": "images/web/IMG_0260.jpg",
+      "displayed": true,
+      "duplicates": []
+    }
+  ]
+}

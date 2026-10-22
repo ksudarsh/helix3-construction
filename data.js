@@ -1024,3 +1024,69 @@ window.HELIX_PHOTOS.push(...[
     "update": "oct21"
   }
 ]);
+
+window.HELIX_PHOTOS.push(...[
+  {
+    "file": "IMG_0252.heic",
+    "web": "images/web/IMG_0252.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 The full site, from east to west",
+    "caption": "08:18:04 EDT. The yellow crane stands at the near/east end and the white crane at the far/west end, with the expanding rectangular foundation preparations between them.",
+    "alt": "The full site, from east to west",
+    "annotated": false,
+    "update": "oct22"
+  },
+  {
+    "file": "IMG_0253.heic",
+    "web": "images/web/IMG_0253.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 Another rectangle develops on the west side",
+    "caption": "08:18:17 EDT. White-lined and gray prepared portions sit inside adjoining forms. The observer confirms that a similar larger rectangle is developing here, serviced by the white crane.",
+    "alt": "Another rectangle develops on the west side",
+    "annotated": true,
+    "update": "oct22",
+    "annotation": "images/annotated/IMG_0253.svg"
+  },
+  {
+    "file": "IMG_0254.heic",
+    "web": "images/web/IMG_0254.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 Surrounding areas join the first rectangle",
+    "caption": "08:18:22 EDT. White lining leaves circular openings around shaft connections, with reinforcement across adjoining portions. The observer identifies the earlier poured four-shaft rectangle and confirms that surrounding areas are being prepared for concrete.",
+    "alt": "Surrounding areas join the first rectangle",
+    "annotated": true,
+    "update": "oct22",
+    "annotation": "images/annotated/IMG_0254.svg"
+  },
+  {
+    "file": "FullSizeRender 2.HEIC",
+    "web": "images/web/oct22_090732.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 A closer look at the eastern footprint",
+    "caption": "09:07:32 EDT. The broad white-lined footprint, shaft-bar openings and reinforcement show preparation around the earlier concrete area. The observer reports that these portions began at different depths.",
+    "alt": "A closer look at the eastern footprint",
+    "annotated": false,
+    "update": "oct22"
+  },
+  {
+    "file": "FullSizeRender 4.HEIC",
+    "web": "images/web/oct22_090759.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 Morning overview of the adjoining preparations",
+    "caption": "09:07:59 EDT. The wider frame links the large eastern footprint, the developing west-side rectangle, exposed shaft heads and working areas.",
+    "alt": "Morning overview of the adjoining preparations",
+    "annotated": false,
+    "update": "oct22"
+  },
+  {
+    "file": "IMG_0260.heic",
+    "web": "images/web/IMG_0260.jpg",
+    "date": "2026-10-22",
+    "title": "October 22 \u00b7 Afternoon view of both developing rectangles",
+    "caption": "15:02:29 EDT, the latest capture in this set. The view shows the larger eastern footprint and the west-side preparations. The observer confirms preparation for future concrete placement; this frame does not by itself establish another completed pour.",
+    "alt": "Afternoon view of both developing rectangles",
+    "annotated": true,
+    "update": "oct22",
+    "annotation": "images/annotated/IMG_0260.svg"
+  }
+]);
